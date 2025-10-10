@@ -1,25 +1,27 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>food for thought</title>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>food for thought</title>
 
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle:wght@400;700&family=Playwrite+DE+SAS:wght@400&family=Lora:wght@400;700&family=Figtree:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle:wght@400;700&family=Playwrite+DE+SAS:wght@400;600&family=Lora:wght@400;700&family=Figtree:wght@400;600&display=swap" rel="stylesheet">
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="./styles.css" />
+  <!-- Site CSS -->
+  <link rel="stylesheet" href="styles.css" />
 
-    <!-- React + ReactDOM + Babel -->
-    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-  </head>
-  <body>
-    <div id="root"></div>
+  <!-- React + ReactDOM + Babel (no build tools needed) -->
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
-    <!-- App (must be last) -->
-    <script type="text/babel" data-presets="env,react" src="./app.jsx"></script>
-  </body>
+  <meta name="description" content="A cozy cookbook: food for thought and recipes to reminisce." />
+</head>
+<body>
+  <div id="root"></div>
+
+  <!-- Your app code (loads last) -->
+  <script type="text/babel" data-presets="env,react" src="app.jsx"></script>
+</body>
 </html>

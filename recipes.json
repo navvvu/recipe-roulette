@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Hyderabadi Chicken Biryani",
+    "image": "https://images.unsplash.com/photo-1601050690597-8df4d8b8d5a8?w=800",
+    "time": "60 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["Telugu", "South Indian", "Non-Veg"],
+    "ingredients": [
+      "2 cups basmati rice",
+      "500g chicken (marinated in yogurt, chili, and biryani masala)",
+      "2 onions (fried)",
+      "2 tomatoes (chopped)",
+      "1 cup yogurt",
+      "Whole spices (bay leaf, cloves, cinnamon, cardamom)",
+      "Saffron milk + mint + coriander for layering"
+    ],
+    "instructions": [
+      "Soak rice for 30 minutes, then cook until 70% done.",
+      "Fry onions until golden brown and set aside.",
+      "Cook marinated chicken until almost done.",
+      "In a pot, layer rice and chicken alternately.",
+      "Top with saffron milk, fried onions, mint, and coriander.",
+      "Seal with lid and cook on low flame for 20 minutes (dum)."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Amma 💛",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Pesarattu (Green Gram Dosa)",
+    "image": "https://images.unsplash.com/photo-1600784585811-7d9921fdf98b?w=800",
+    "time": "25 min",
+    "servings": 3,
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "category": ["Telugu", "Breakfast", "Vegan"],
+    "ingredients": [
+      "1 cup green gram (moong dal)",
+      "1-inch ginger piece",
+      "2 green chilies",
+      "Salt to taste",
+      "Oil for roasting"
+    ],
+    "instructions": [
+      "Soak green gram overnight or for 6 hours.",
+      "Grind with ginger, green chilies, and salt to a smooth batter.",
+      "Heat a tawa, spread batter into thin dosa shape.",
+      "Roast both sides with a little oil until golden brown.",
+      "Serve hot with ginger chutney."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Nanna 🫶",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  }
+]
