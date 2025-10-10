@@ -13,8 +13,9 @@
   --title: 'BBH Sans Bogle', sans-serif;
   --tagline: 'Playwrite DE SAS', cursive;
   --recipe-title: 'Trade Winds', cursive;
-  --recipe-ingredients: 'Shadows Into Light', cursive;
-  --recipe-stats: 'Henny Penny', cursive;
+  --recipe-ingredients: 'Irish Grover', cursive;
+  --recipe-stats: 'Marhey', cursive;
+  --telugu-script: 'Akaya Telivigala', cursive;
   --recipe: 'Lora', serif;
   --body: 'Figtree', sans-serif;
 }
@@ -251,6 +252,13 @@ textarea {
   text-transform: lowercase;
   letter-spacing: 1px;
 }
+
+.detail-body h1.telugu {
+  font-family: var(--telugu-script);
+  font-size: 36px;
+  text-transform: none;
+  letter-spacing: 2px;
+}
 .detail-body h3 {
   margin-top: 18px;
   color: var(--terracotta);
@@ -264,7 +272,7 @@ textarea {
 
 .detail-body ul li {
   font-family: var(--recipe-ingredients);
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 8px;
   padding-left: 20px;
   position: relative;
@@ -280,7 +288,7 @@ textarea {
 
 .detail-body ol li {
   font-family: var(--recipe-ingredients);
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 8px;
   padding-left: 20px;
 }

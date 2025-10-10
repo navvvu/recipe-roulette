@@ -47,7 +47,12 @@ function App() {
             style={{ width: "100%", height: 360, objectFit: "cover" }}
           />
           <div className="detail-body">
-            <h1 style={{ marginBottom: 8 }}>{selected.title}</h1>
+            <h1 
+              className={selected.title.includes('పె') ? 'telugu' : ''}
+              style={{ marginBottom: 8 }}
+            >
+              {selected.title}
+            </h1>
             <div className="recipe-stats">
               <span>⏱ {selected.time}</span>
               <span>👥 {selected.servings}</span>
