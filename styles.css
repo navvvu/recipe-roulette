@@ -12,6 +12,9 @@
 
   --title: 'BBH Sans Bogle', sans-serif;
   --tagline: 'Playwrite DE SAS', cursive;
+  --recipe-title: 'Trade Winds', cursive;
+  --recipe-ingredients: 'Shadows Into Light', cursive;
+  --recipe-stats: 'Henny Penny', cursive;
   --recipe: 'Lora', serif;
   --body: 'Figtree', sans-serif;
 }
@@ -241,18 +244,55 @@ textarea {
   margin-bottom: 16px;
 }
 .detail-body h1 {
-  font-family: var(--recipe);
-  font-size: 28px;
+  font-family: var(--recipe-title);
+  font-size: 32px;
   color: var(--charcoal);
   margin-top: 0;
+  text-transform: lowercase;
+  letter-spacing: 1px;
 }
 .detail-body h3 {
   margin-top: 18px;
   color: var(--terracotta);
 }
 .detail-body ul, .detail-body ol {
-  margin: 8px 0 0 20px;
-  line-height: 1.6;
+  margin: 8px 0 0 0;
+  line-height: 1.8;
+  padding-left: 0;
+  list-style: none;
+}
+
+.detail-body ul li {
+  font-family: var(--recipe-ingredients);
+  font-size: 16px;
+  margin-bottom: 8px;
+  padding-left: 20px;
+  position: relative;
+}
+
+.detail-body ul li:before {
+  content: "•";
+  color: var(--terracotta);
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+
+.detail-body ol li {
+  font-family: var(--recipe-ingredients);
+  font-size: 16px;
+  margin-bottom: 8px;
+  padding-left: 20px;
+}
+
+.recipe-stats {
+  font-family: var(--recipe-stats);
+  font-size: 14px;
+  color: var(--sage);
+  margin: 12px 0;
+  display: flex;
+  gap: 16px;
+  align-items: center;
 }
 
 /* ---------- FOOTER ---------- */

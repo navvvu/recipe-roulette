@@ -48,19 +48,21 @@ function App() {
           />
           <div className="detail-body">
             <h1 style={{ marginBottom: 8 }}>{selected.title}</h1>
-            <p style={{ marginTop: 0 }}>
-              ⏱ {selected.time} &nbsp;•&nbsp; 👥 {selected.servings} &nbsp;•&nbsp; 💪 {selected.difficulty}
-            </p>
+            <div className="recipe-stats">
+              <span>⏱ {selected.time}</span>
+              <span>👥 {selected.servings}</span>
+              <span>💪 {selected.difficulty}</span>
+            </div>
 
             <h3>Ingredients</h3>
             <ul>
-              {selected.ingredients.map((i, idx) => <li key={idx}>• {i}</li>)}
+              {selected.ingredients.map((i, idx) => <li key={idx}>{i}</li>)}
             </ul>
 
             <h3>Instructions</h3>
             <ol>
               {selected.instructions.map((s, idx) => (
-                <li key={idx}><b>{idx + 1}.</b> {s}</li>
+                <li key={idx}>{s}</li>
               ))}
             </ol>
 
