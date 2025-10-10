@@ -7,7 +7,7 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Telugu", "South Indian", "Non-Veg"],
+    "category": ["Telugu", "Non-Veg"],
     "ingredients": [
       "2 cups basmati rice",
       "500g chicken (marinated in yogurt, chili, and biryani masala)",
@@ -38,7 +38,7 @@
     "servings": 3,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["Telugu", "Breakfast", "Vegan"],
+    "category": ["Telugu", "Breakfast"],
     "ingredients": [
       "1 cup green gram (moong dal)",
       "1-inch ginger piece",
@@ -66,7 +66,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.8,
-    "category": ["Telugu", "South Indian", "Vegan", "Chutney"],
+    "category": ["Telugu", "Other"],
     "ingredients": [
       "2 cups gongura leaves (sorrel leaves)",
       "1/2 cup tamarind pulp",
@@ -99,7 +99,7 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Telugu", "South Indian", "Non-Veg", "Curry"],
+    "category": ["Telugu", "Non-Veg"],
     "ingredients": [
       "500g chicken pieces",
       "2 onions (finely chopped)",
@@ -135,7 +135,7 @@
     "servings": 3,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["South Indian", "Breakfast", "Vegetarian"],
+    "category": ["South Indian", "Breakfast"],
     "ingredients": [
       "1 cup semolina (rava)",
       "1/2 cup rice flour",
@@ -171,7 +171,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["Telugu", "South Indian", "Vegan", "Rice"],
+    "category": ["Telugu", "Other"],
     "ingredients": [
       "2 cups cooked rice (cooled)",
       "1/2 cup tamarind pulp",
@@ -206,7 +206,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.5,
-    "category": ["South Indian", "Vegan", "Chutney", "Side Dish"],
+    "category": ["South Indian", "Other"],
     "ingredients": [
       "1 cup fresh grated coconut",
       "2 tbsp roasted chana dal",
@@ -238,7 +238,7 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["South Indian", "Vegetarian", "Rice", "One Pot Meal"],
+    "category": ["South Indian", "Vegetarian"],
     "ingredients": [
       "1 cup rice",
       "1/2 cup toor dal",
@@ -274,7 +274,7 @@
     "servings": 3,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["South Indian", "Vegetarian", "Breakfast", "Street Food"],
+    "category": ["South Indian", "Breakfast"],
     "ingredients": [
       "For dosa batter: 2 cups rice, 1 cup urad dal, salt",
       "For potato masala: 3 potatoes, 1 onion, 2 green chilies, curry leaves, mustard seeds, turmeric, salt",
@@ -303,7 +303,7 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["Telugu", "South Indian", "Vegetarian", "Curry"],
+    "category": ["Telugu", "Vegetarian"],
     "ingredients": [
       "8-10 small brinjals",
       "1/2 cup roasted peanuts",
@@ -339,7 +339,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.8,
-    "category": ["South Indian", "Vegan", "Soup", "Comfort Food"],
+    "category": ["South Indian", "Other"],
     "ingredients": [
       "1/2 cup toor dal (cooked)",
       "2 tomatoes (chopped)",
@@ -371,7 +371,7 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["South Indian", "Vegan", "Dal", "Comfort Food"],
+    "category": ["South Indian", "Vegetarian"],
     "ingredients": [
       "1/2 cup toor dal",
       "1 cup mixed vegetables (drumstick, carrot, beans, brinjal)",
@@ -403,7 +403,7 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["South Indian", "Vegan", "Snacks", "Breakfast"],
+    "category": ["South Indian", "Breakfast"],
     "ingredients": [
       "1 cup urad dal (soaked overnight)",
       "1 tsp cumin seeds",
@@ -436,7 +436,7 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["South Indian", "Vegan", "Breakfast", "Fermented"],
+    "category": ["South Indian", "Breakfast"],
     "ingredients": [
       "2 cups idli rice",
       "1 cup urad dal",
@@ -466,7 +466,7 @@
     "servings": 3,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["South Indian", "Vegan", "Breakfast", "Comfort Food"],
+    "category": ["South Indian", "Breakfast"],
     "ingredients": [
       "1 cup rice",
       "1/2 cup moong dal",
@@ -501,7 +501,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["South Indian", "Vegan", "Rice", "One Pot Meal"],
+    "category": ["South Indian", "Vegetarian"],
     "ingredients": [
       "2 cups cooked rice",
       "3 tomatoes (chopped)",
@@ -537,7 +537,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.5,
-    "category": ["South Indian", "Vegan", "Rice", "Festival Food"],
+    "category": ["South Indian", "Vegetarian"],
     "ingredients": [
       "2 cups cooked rice",
       "1 cup fresh grated coconut",
@@ -569,9 +569,9 @@
     "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800&h=600&fit=crop",
     "time": "40 min",
     "servings": 6,
-    "difficulty": "Hard",
+    "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["South Indian", "Vegan", "Snacks", "Festival Food"],
+    "category": ["South Indian", "Other"],
     "ingredients": [
       "2 cups rice flour",
       "1/2 cup urad dal flour",
@@ -604,7 +604,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["Telugu", "South Indian", "Vegan", "Dal"],
+    "category": ["Telugu", "Vegetarian"],
     "ingredients": [
       "1 cup toor dal",
       "2 tomatoes (chopped)",
@@ -637,7 +637,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.4,
-    "category": ["South Indian", "Vegan", "Chutney", "Side Dish"],
+    "category": ["South Indian", "Other"],
     "ingredients": [
       "1 cup fresh mint leaves",
       "1/2 cup fresh coriander leaves",
@@ -671,7 +671,7 @@
     "servings": 12,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Baking", "Dessert", "Breakfast", "Sweet"],
+    "category": ["Baking", "Other"],
     "ingredients": [
       "1 cup warm milk",
       "1 tbsp instant dry yeast",
@@ -706,7 +706,7 @@
     "servings": 8,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["Baking", "Dessert", "Tea Time", "Simple"],
+    "category": ["Baking", "Other"],
     "ingredients": [
       "2 cups all-purpose flour",
       "2 tsp baking powder",
@@ -739,7 +739,7 @@
     "servings": 10,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["Baking", "Bread", "Breakfast", "Homemade"],
+    "category": ["Baking", "Breakfast"],
     "ingredients": [
       "1 tsp instant yeast",
       "2 tbsp white sugar",
@@ -772,9 +772,9 @@
     "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&h=600&fit=crop",
     "time": "2 hours",
     "servings": 6,
-    "difficulty": "Hard",
+    "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Kerala", "Non-Veg", "Roast", "Special Occasion"],
+    "category": ["Kerala", "Non-Veg"],
     "ingredients": [
       "1 whole duck (cleaned)",
       "2 tbsp ginger-garlic paste",
@@ -811,7 +811,7 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["Kerala", "Non-Veg", "Curry", "Seafood"],
+    "category": ["Kerala", "Non-Veg"],
     "ingredients": [
       "500g fish pieces",
       "1 cup coconut milk",
@@ -846,9 +846,9 @@
     "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800&h=600&fit=crop",
     "time": "1 hour",
     "servings": 6,
-    "difficulty": "Hard",
+    "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["Kerala", "Bread", "Street Food", "Layered"],
+    "category": ["Kerala", "Other"],
     "ingredients": [
       "3 cups all-purpose flour",
       "1 tsp salt",
@@ -880,7 +880,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["Kerala", "Non-Veg", "Curry", "Seafood"],
+    "category": ["Kerala", "Non-Veg"],
     "ingredients": [
       "500g prawns (cleaned)",
       "1 cup coconut milk",
@@ -915,7 +915,7 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["Kerala", "Non-Veg", "Stew", "Comfort Food"],
+    "category": ["Kerala", "Non-Veg"],
     "ingredients": [
       "500g chicken pieces",
       "1 cup coconut milk",

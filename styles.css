@@ -79,6 +79,8 @@ html, body {
   font-size: 16px;
   color: var(--sage);
   margin-top: 4px;
+  font-style: italic;
+  letter-spacing: 0.5px;
 }
 
 /* ---------- BUTTONS ---------- */

@@ -99,8 +99,8 @@ function App() {
       <header className="header">
         <div className="header-row container">
           <div className="brand">
-            <h1 className="title" style={{ fontFamily: "'BBH Sans Bogle', sans-serif" }}>food for thought</h1>
-            <span className="tagline" style={{ fontFamily: "'Playwrite DE SAS', cursive" }}>
+            <h1 className="title">food for thought</h1>
+            <span className="tagline">
               and recipes to reminisce
             </span>
           </div>
