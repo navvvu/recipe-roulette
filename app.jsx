@@ -48,35 +48,30 @@ const defaultRecipes = [
 ];
 
 function App() {
-  // State
-  const [recipes, setRecipes] = useState(() =>
+  const [recipes, setRecipes] = useState(
     JSON.parse(localStorage.getItem("recipes") || "null") || defaultRecipes
   );
-  const [favorites, setFavorites] = useState(() =>
+  const [favorites, setFavorites] = useState(
     JSON.parse(localStorage.getItem("favorites") || "[]")
   );
   const [searchTerm, setSearchTerm] = useState("");
   const [selected, setSelected] = useState(null);
   const [showForm, setShowForm] = useState(false);
 
-  // Persistence
   useEffect(() => localStorage.setItem("recipes", JSON.stringify(recipes)), [recipes]);
   useEffect(() => localStorage.setItem("favorites", JSON.stringify(favorites)), [favorites]);
 
-  // Derived
   const filtered = recipes.filter(
     r =>
       r.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
       r.category.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
-  // Actions
   function toggleFavorite(id, e) {
     e?.stopPropagation();
     setFavorites(prev => (prev.includes(id) ? prev.filter(f => f !== id) : [...prev, id]));
   }
 
-  // Form state
   const [form, setForm] = useState({
     title: "",
     image: "",
@@ -123,7 +118,6 @@ function App() {
     });
   }
 
-  // ----- Screens -----
   // Add form
   if (showForm) {
     return (
@@ -256,19 +250,22 @@ function App() {
 
       <div className="grid container">
         {filtered.map(card => (
-          <div key={card.id} className="card" onClick={() => setSelected(card)} aria-label={`Open ${card.title}`}>
+          <div key={card.id} className="card" onClick={() => setSelected(card)} aria-label={`Open ${card.title}`} style={{ position: "relative" }}>
             <img src={card.image} alt={card.title} />
             <div className="card-body">
               <h3>{card.title}</h3>
               <p>⏱ {card.time} &nbsp;|&nbsp; 👥 {card.servings} &nbsp;|&nbsp; ⭐ {card.rating}</p>
               <p style={{ color: "var(--sage)", fontWeight: 600, margin: "6px 0 0" }}>{card.category}</p>
               <div style={{ marginTop: 10 }}>
-                <span className="badge" style="background: rgba(138,156,142,.18); color:#465249;">{card.difficulty}</span>
+                {/* FIXED: proper JSX style object instead of string */}
+                <span className="badge" style={{ background: "rgba(138,156,142,.18)", color: "#465249" }}>
+                  {card.difficulty}
+                </span>
               </div>
             </div>
             <button
               className="button"
-              style={{ position: "absolute", top: 12, right: 12, transform: "translateZ(0)" }}
+              style={{ position: "absolute", top: 12, right: 12 }}
               onClick={e => toggleFavorite(card.id, e)}
               aria-label="Toggle favorite"
             >
