@@ -57,5 +57,278 @@
       "display": "Cooking Credits: Nanna 🫶",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
     }
+  },
+  {
+    "id": 3,
+    "title": "Gongura Pachadi (Sorrel Leaves Chutney)",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "category": ["Telugu", "South Indian", "Vegan", "Chutney"],
+    "ingredients": [
+      "2 cups gongura leaves (sorrel leaves)",
+      "1/2 cup tamarind pulp",
+      "6-8 dried red chilies",
+      "1 tsp mustard seeds",
+      "1 tsp cumin seeds",
+      "4-5 garlic cloves",
+      "Salt to taste",
+      "2 tbsp oil",
+      "1/2 tsp turmeric powder"
+    ],
+    "instructions": [
+      "Wash and clean gongura leaves thoroughly.",
+      "Heat oil in a pan, add mustard seeds and cumin seeds.",
+      "Add dried red chilies and garlic, sauté until fragrant.",
+      "Add gongura leaves and cook until they wilt completely.",
+      "Add tamarind pulp, salt, and turmeric powder.",
+      "Cook for 5-7 minutes until oil separates. Cool and grind to paste."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Telugu Kitchen Traditions",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Andhra Chicken Curry",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800",
+    "time": "45 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["Telugu", "South Indian", "Non-Veg", "Curry"],
+    "ingredients": [
+      "500g chicken pieces",
+      "2 onions (finely chopped)",
+      "3 tomatoes (chopped)",
+      "2 tbsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "2 tbsp red chili powder",
+      "1 tbsp coriander powder",
+      "1 tsp garam masala",
+      "Curry leaves and coriander leaves",
+      "Salt to taste",
+      "3 tbsp oil"
+    ],
+    "instructions": [
+      "Marinate chicken with turmeric, salt, and half the ginger-garlic paste for 30 minutes.",
+      "Heat oil in a pan, add onions and sauté until golden brown.",
+      "Add remaining ginger-garlic paste and cook until raw smell disappears.",
+      "Add tomatoes and cook until they turn mushy.",
+      "Add all spice powders and cook until oil separates.",
+      "Add marinated chicken and cook covered until tender.",
+      "Garnish with curry leaves and coriander leaves."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Andhra Spice Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Rava Dosa (Semolina Crepes)",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
+    "time": "30 min",
+    "servings": 3,
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "category": ["South Indian", "Breakfast", "Vegetarian"],
+    "ingredients": [
+      "1 cup semolina (rava)",
+      "1/2 cup rice flour",
+      "1/4 cup all-purpose flour",
+      "1/2 cup yogurt",
+      "1 tsp cumin seeds",
+      "1 tsp black pepper",
+      "2 green chilies (finely chopped)",
+      "1 inch ginger (grated)",
+      "Curry leaves and coriander leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Mix semolina, rice flour, and all-purpose flour in a bowl.",
+      "Add yogurt and mix well, then add water to make thin batter.",
+      "Add cumin seeds, black pepper, green chilies, and ginger.",
+      "Add curry leaves, coriander leaves, and salt. Mix well.",
+      "Let batter rest for 15-20 minutes.",
+      "Heat tawa, pour batter in circular motion to make thin dosas.",
+      "Cook until crispy and golden brown on both sides."
+    ],
+    "credit": {
+      "display": "Cooking Credits: South Indian Breakfast Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Pulihora (Tamarind Rice)",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800",
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "category": ["Telugu", "South Indian", "Vegan", "Rice"],
+    "ingredients": [
+      "2 cups cooked rice (cooled)",
+      "1/2 cup tamarind pulp",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp cumin seeds",
+      "2 dried red chilies",
+      "1/4 cup peanuts",
+      "1/4 cup cashews",
+      "Curry leaves",
+      "1 tsp turmeric powder",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds and cumin seeds.",
+      "Add dried red chilies, peanuts, and cashews. Roast until golden.",
+      "Add curry leaves and tamarind pulp.",
+      "Add turmeric powder and salt. Cook until oil separates.",
+      "Add cooked rice and mix gently until well combined.",
+      "Cook for 2-3 minutes on low heat. Serve warm."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Telugu Festival Kitchen",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Coconut Chutney",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+    "time": "10 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.5,
+    "category": ["South Indian", "Vegan", "Chutney", "Side Dish"],
+    "ingredients": [
+      "1 cup fresh grated coconut",
+      "2 tbsp roasted chana dal",
+      "2 green chilies",
+      "1 inch ginger",
+      "1 tsp cumin seeds",
+      "Salt to taste",
+      "Water as needed",
+      "For tempering: 1 tsp oil, mustard seeds, curry leaves, dried red chili"
+    ],
+    "instructions": [
+      "Grind coconut, roasted chana dal, green chilies, ginger, and cumin seeds.",
+      "Add salt and water to make smooth paste.",
+      "Heat oil for tempering, add mustard seeds.",
+      "Add curry leaves and dried red chili.",
+      "Pour tempering over chutney and mix well.",
+      "Serve with dosas, idlis, or rice."
+    ],
+    "credit": {
+      "display": "Cooking Credits: South Indian Chutney Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Bisi Bele Bath (Spicy Rice & Lentils)",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800",
+    "time": "50 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["South Indian", "Vegetarian", "Rice", "One Pot Meal"],
+    "ingredients": [
+      "1 cup rice",
+      "1/2 cup toor dal",
+      "1/4 cup mixed vegetables (carrots, beans, peas)",
+      "2 tbsp bisi bele bath powder",
+      "1/2 cup tamarind pulp",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp cumin seeds",
+      "Curry leaves",
+      "Cashews and peanuts",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook rice and toor dal together until soft.",
+      "Heat oil, add mustard seeds, cumin seeds, and curry leaves.",
+      "Add cashews and peanuts, roast until golden.",
+      "Add vegetables and cook until tender.",
+      "Add bisi bele bath powder and tamarind pulp.",
+      "Add cooked rice-dal mixture and mix well.",
+      "Cook for 10-15 minutes on low heat. Serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Karnataka Kitchen Traditions",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Masala Dosa",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
+    "time": "40 min",
+    "servings": 3,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["South Indian", "Vegetarian", "Breakfast", "Street Food"],
+    "ingredients": [
+      "For dosa batter: 2 cups rice, 1 cup urad dal, salt",
+      "For potato masala: 3 potatoes, 1 onion, 2 green chilies, curry leaves, mustard seeds, turmeric, salt",
+      "Oil for cooking dosas",
+      "Ghee for brushing"
+    ],
+    "instructions": [
+      "Soak rice and urad dal separately for 6 hours.",
+      "Grind separately, mix together, add salt, and ferment overnight.",
+      "Boil potatoes, peel and mash them.",
+      "Heat oil, add mustard seeds, curry leaves, and green chilies.",
+      "Add onions, sauté until golden, add turmeric and salt.",
+      "Add mashed potatoes and mix well.",
+      "Make thin dosas, add potato masala, fold, and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: South Indian Dosa Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Gutti Vankaya (Stuffed Brinjal Curry)",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800",
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.7,
+    "category": ["Telugu", "South Indian", "Vegetarian", "Curry"],
+    "ingredients": [
+      "8-10 small brinjals",
+      "1/2 cup roasted peanuts",
+      "2 tbsp sesame seeds",
+      "2 tbsp coconut",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "3 tbsp oil",
+      "Curry leaves and coriander leaves"
+    ],
+    "instructions": [
+      "Make cross cuts in brinjals without separating them.",
+      "Grind peanuts, sesame seeds, and coconut to coarse powder.",
+      "Mix ground powder with all spice powders and salt.",
+      "Stuff this mixture into the brinjals.",
+      "Heat oil in a pan, add curry leaves.",
+      "Add stuffed brinjals and cook covered until tender.",
+      "Garnish with coriander leaves and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Andhra Vegetable Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
   }
 ]
