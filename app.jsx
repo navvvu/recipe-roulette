@@ -101,29 +101,23 @@ function App() {
           <div className="brand">
             <div className="logo-container">
               <svg className="logo" viewBox="0 0 100 100" width="40" height="40">
-                <defs>
-                  <pattern id="potPattern" patternUnits="userSpaceOnUse" width="4" height="4">
-                    <rect width="4" height="4" fill="#D98663"/>
-                    <circle cx="2" cy="2" r="0.5" fill="#F5EFE6"/>
-                  </pattern>
-                </defs>
                 {/* Pot Body */}
-                <ellipse cx="50" cy="65" rx="25" ry="20" fill="#D98663" stroke="#2E2E2E" strokeWidth="1.5"/>
+                <ellipse cx="50" cy="65" rx="25" ry="20" fill="#D98663" stroke="#2E2E2E" strokeWidth="2"/>
                 {/* Pot Lid */}
-                <ellipse cx="50" cy="45" rx="22" ry="8" fill="#D98663" stroke="#2E2E2E" strokeWidth="1.5"/>
+                <ellipse cx="50" cy="45" rx="22" ry="8" fill="#D98663" stroke="#2E2E2E" strokeWidth="2"/>
                 {/* Lid Knob */}
-                <circle cx="50" cy="38" r="3" fill="#D98663" stroke="#2E2E2E" strokeWidth="1"/>
+                <circle cx="50" cy="38" r="4" fill="#D98663" stroke="#2E2E2E" strokeWidth="1.5"/>
                 {/* Handles */}
-                <path d="M 25 55 Q 20 55 20 60 Q 20 65 25 65" fill="none" stroke="#2E2E2E" strokeWidth="2"/>
-                <path d="M 75 55 Q 80 55 80 60 Q 80 65 75 65" fill="none" stroke="#2E2E2E" strokeWidth="2"/>
+                <path d="M 25 55 Q 20 55 20 60 Q 20 65 25 65" fill="none" stroke="#2E2E2E" strokeWidth="2.5"/>
+                <path d="M 75 55 Q 80 55 80 60 Q 80 65 75 65" fill="none" stroke="#2E2E2E" strokeWidth="2.5"/>
                 {/* Decorative Bands */}
                 <ellipse cx="50" cy="50" rx="20" ry="3" fill="#F5EFE6"/>
                 <ellipse cx="50" cy="60" rx="22" ry="3" fill="#F5EFE6"/>
                 <ellipse cx="50" cy="70" rx="20" ry="3" fill="#F5EFE6"/>
                 {/* Steam */}
-                <path d="M 50 35 Q 45 25 50 20 Q 55 25 50 35" fill="#EDC9A9" opacity="0.8"/>
-                <path d="M 50 35 Q 55 30 60 25 Q 65 30 60 35" fill="#EDC9A9" opacity="0.6"/>
-                <path d="M 50 35 Q 40 30 35 25 Q 40 30 45 35" fill="#EDC9A9" opacity="0.7"/>
+                <path d="M 50 35 Q 45 25 50 20 Q 55 25 50 35" fill="#EDC9A9" opacity="0.9"/>
+                <path d="M 50 35 Q 55 30 60 25 Q 65 30 60 35" fill="#EDC9A9" opacity="0.7"/>
+                <path d="M 50 35 Q 40 30 35 25 Q 40 30 45 35" fill="#EDC9A9" opacity="0.8"/>
               </svg>
             </div>
             <div className="brand-text">
