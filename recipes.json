@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Hyderabadi Chicken Biryani",
-    "image": "https://picsum.photos/800/600?random=1",
+    "image": "https://source.unsplash.com/800x600/?biryani",
     "time": "60 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -33,7 +33,7 @@
   {
     "id": 2,
     "title": "Pesarattu (Green Gram Dosa)",
-    "image": "https://picsum.photos/800/600?random=2",
+    "image": "https://source.unsplash.com/800x600/?dosa",
     "time": "25 min",
     "servings": 3,
     "difficulty": "Easy",
@@ -61,7 +61,7 @@
   {
     "id": 3,
     "title": "Gongura Pachadi (Sorrel Leaves Chutney)",
-    "image": "https://picsum.photos/800/600?random=3",
+    "image": "https://source.unsplash.com/800x600/?chutney",
     "time": "20 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -94,7 +94,7 @@
   {
     "id": 4,
     "title": "Andhra Chicken Curry",
-    "image": "https://picsum.photos/800/600?random=4",
+    "image": "https://source.unsplash.com/800x600/?curry",
     "time": "45 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -130,7 +130,7 @@
   {
     "id": 5,
     "title": "Rava Dosa (Semolina Crepes)",
-    "image": "https://picsum.photos/800/600?random=5",
+    "image": "https://source.unsplash.com/800x600/?dosa",
     "time": "30 min",
     "servings": 3,
     "difficulty": "Easy",
@@ -166,7 +166,7 @@
   {
     "id": 6,
     "title": "Pulihora (Tamarind Rice)",
-    "image": "https://picsum.photos/800/600?random=6",
+    "image": "https://source.unsplash.com/800x600/?rice",
     "time": "25 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -201,7 +201,7 @@
   {
     "id": 7,
     "title": "Coconut Chutney",
-    "image": "https://picsum.photos/800/600?random=7",
+    "image": "https://source.unsplash.com/800x600/?coconut",
     "time": "10 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -233,7 +233,7 @@
   {
     "id": 8,
     "title": "Bisi Bele Bath (Spicy Rice & Lentils)",
-    "image": "https://picsum.photos/800/600?random=8",
+    "image": "https://source.unsplash.com/800x600/?rice",
     "time": "50 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -269,7 +269,7 @@
   {
     "id": 9,
     "title": "Masala Dosa",
-    "image": "https://picsum.photos/800/600?random=9",
+    "image": "https://source.unsplash.com/800x600/?dosa",
     "time": "40 min",
     "servings": 3,
     "difficulty": "Medium",
@@ -298,7 +298,7 @@
   {
     "id": 10,
     "title": "Gutti Vankaya (Stuffed Brinjal Curry)",
-    "image": "https://picsum.photos/800/600?random=10",
+    "image": "https://source.unsplash.com/800x600/?eggplant",
     "time": "35 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -328,6 +328,338 @@
     ],
     "credit": {
       "display": "Cooking Credits: Andhra Vegetable Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Rasam (South Indian Hotel Style)",
+    "image": "https://source.unsplash.com/800x600/?rasam",
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "category": ["South Indian", "Vegan", "Soup", "Comfort Food"],
+    "ingredients": [
+      "1/2 cup toor dal (cooked)",
+      "2 tomatoes (chopped)",
+      "1 tbsp tamarind pulp",
+      "2 tsp rasam powder",
+      "1 tsp turmeric powder",
+      "Salt to taste",
+      "For tempering: 2 tsp oil, 1 tsp mustard seeds, 1 tsp cumin seeds, 2 dried red chilies, curry leaves, coriander leaves"
+    ],
+    "instructions": [
+      "Cook toor dal until soft and mash it well.",
+      "In a pot, add chopped tomatoes, tamarind pulp, and water.",
+      "Add rasam powder, turmeric, and salt. Boil until tomatoes are soft.",
+      "Add mashed dal and mix well. Simmer for 5 minutes.",
+      "Heat oil for tempering, add mustard seeds, cumin seeds, and red chilies.",
+      "Add curry leaves and pour tempering over rasam.",
+      "Garnish with coriander leaves and serve hot with rice."
+    ],
+    "credit": {
+      "display": "Cooking Credits: South Indian Hotel Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Sambar Recipe (How to Make Sambar)",
+    "image": "https://source.unsplash.com/800x600/?sambar",
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["South Indian", "Vegan", "Dal", "Comfort Food"],
+    "ingredients": [
+      "1/2 cup toor dal",
+      "1 cup mixed vegetables (drumstick, carrot, beans, brinjal)",
+      "1 tbsp tamarind pulp",
+      "2 tbsp sambar powder",
+      "1 tsp turmeric powder",
+      "Salt to taste",
+      "For tempering: 2 tbsp oil, 1 tsp mustard seeds, 1 tsp fenugreek seeds, 2 dried red chilies, curry leaves, asafoetida"
+    ],
+    "instructions": [
+      "Cook toor dal until soft and mash it well.",
+      "Cook mixed vegetables until tender in a separate pot.",
+      "Add tamarind pulp, sambar powder, turmeric, and salt to vegetables.",
+      "Add mashed dal and mix well. Simmer for 10 minutes.",
+      "Heat oil for tempering, add mustard seeds, fenugreek seeds, and red chilies.",
+      "Add curry leaves and asafoetida. Pour tempering over sambar.",
+      "Serve hot with rice, idli, or dosa."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Traditional South Indian Kitchen",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Medu Vada Recipe (Garelu)",
+    "image": "https://source.unsplash.com/800x600/?vada",
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.7,
+    "category": ["South Indian", "Vegan", "Snacks", "Breakfast"],
+    "ingredients": [
+      "1 cup urad dal (soaked overnight)",
+      "1 tsp cumin seeds",
+      "1 tsp black pepper",
+      "2 green chilies (finely chopped)",
+      "1 inch ginger (grated)",
+      "Curry leaves and coriander leaves",
+      "Salt to taste",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Soak urad dal overnight and drain water completely.",
+      "Grind dal to smooth paste without adding water.",
+      "Add cumin seeds, black pepper, green chilies, and ginger.",
+      "Add curry leaves, coriander leaves, and salt. Mix well.",
+      "Heat oil for deep frying.",
+      "Wet hands, take small portions, make hole in center, and drop in hot oil.",
+      "Fry until golden brown and crispy. Serve hot with sambar and coconut chutney."
+    ],
+    "credit": {
+      "display": "Cooking Credits: South Indian Snack Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Idli Recipe (Idli Batter Recipe with Pro Tips)",
+    "image": "https://source.unsplash.com/800x600/?idli",
+    "time": "45 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["South Indian", "Vegan", "Breakfast", "Fermented"],
+    "ingredients": [
+      "2 cups idli rice",
+      "1 cup urad dal",
+      "1/2 tsp fenugreek seeds",
+      "Salt to taste",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Soak rice and urad dal separately for 6 hours.",
+      "Grind urad dal with fenugreek seeds to smooth paste.",
+      "Grind rice to coarse paste.",
+      "Mix both batters, add salt, and mix well.",
+      "Let batter ferment overnight (8-12 hours) in warm place.",
+      "Grease idli plates, pour batter, and steam for 10-12 minutes.",
+      "Serve hot with sambar and coconut chutney."
+    ],
+    "credit": {
+      "display": "Cooking Credits: South Indian Breakfast Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Ven Pongal Recipe (Khara Pongal)",
+    "image": "https://source.unsplash.com/800x600/?pongal",
+    "time": "25 min",
+    "servings": 3,
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "category": ["South Indian", "Vegan", "Breakfast", "Comfort Food"],
+    "ingredients": [
+      "1 cup rice",
+      "1/2 cup moong dal",
+      "3 cups water",
+      "1 tsp cumin seeds",
+      "1 tsp black pepper",
+      "2 green chilies (slit)",
+      "1 inch ginger (grated)",
+      "Curry leaves",
+      "Salt to taste",
+      "2 tbsp ghee"
+    ],
+    "instructions": [
+      "Wash rice and moong dal together.",
+      "Heat ghee in pressure cooker, add cumin seeds and black pepper.",
+      "Add green chilies, ginger, and curry leaves. Sauté for 30 seconds.",
+      "Add rice-dal mixture and water. Add salt and mix well.",
+      "Pressure cook for 3 whistles on medium flame.",
+      "Let pressure release naturally. Mix well and serve hot.",
+      "Garnish with more ghee and serve with coconut chutney."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Tamil Nadu Kitchen Traditions",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Tomato Rice Recipe (Indian Style)",
+    "image": "https://source.unsplash.com/800x600/?tomato-rice",
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "category": ["South Indian", "Vegan", "Rice", "One Pot Meal"],
+    "ingredients": [
+      "2 cups cooked rice",
+      "3 tomatoes (chopped)",
+      "1 onion (sliced)",
+      "2 green chilies (slit)",
+      "1 tsp mustard seeds",
+      "1 tsp cumin seeds",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "Curry leaves",
+      "Salt to taste",
+      "3 tbsp oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds and cumin seeds.",
+      "Add curry leaves, green chilies, and sliced onions.",
+      "Sauté until onions turn golden brown.",
+      "Add chopped tomatoes, turmeric, red chili powder, and salt.",
+      "Cook until tomatoes turn mushy and oil separates.",
+      "Add cooked rice and mix gently until well combined.",
+      "Cook for 2-3 minutes on low heat. Serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: South Indian Rice Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Coconut Rice Recipe",
+    "image": "https://source.unsplash.com/800x600/?coconut-rice",
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.5,
+    "category": ["South Indian", "Vegan", "Rice", "Festival Food"],
+    "ingredients": [
+      "2 cups cooked rice",
+      "1 cup fresh grated coconut",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 tsp chana dal",
+      "2 dried red chilies",
+      "Curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds and let them splutter.",
+      "Add urad dal, chana dal, and dried red chilies.",
+      "Sauté until dals turn golden brown.",
+      "Add curry leaves and grated coconut. Sauté for 2 minutes.",
+      "Add salt and mix well.",
+      "Add cooked rice and mix gently until well combined.",
+      "Cook for 2-3 minutes on low heat. Serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Kerala Kitchen Traditions",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Murukku Recipe (Murukulu)",
+    "image": "https://source.unsplash.com/800x600/?murukku",
+    "time": "40 min",
+    "servings": 6,
+    "difficulty": "Hard",
+    "rating": 4.8,
+    "category": ["South Indian", "Vegan", "Snacks", "Festival Food"],
+    "ingredients": [
+      "2 cups rice flour",
+      "1/2 cup urad dal flour",
+      "1 tsp sesame seeds",
+      "1 tsp cumin seeds",
+      "1 tsp red chili powder",
+      "Salt to taste",
+      "Oil for deep frying",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Mix rice flour, urad dal flour, sesame seeds, and cumin seeds.",
+      "Add red chili powder and salt. Mix well.",
+      "Add water gradually to make smooth dough.",
+      "Heat oil for deep frying.",
+      "Use murukku press to make spiral shapes directly in hot oil.",
+      "Fry until golden brown and crispy.",
+      "Drain on paper towels and cool completely before storing."
+    ],
+    "credit": {
+      "display": "Cooking Credits: South Indian Festival Snack Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Tomato Pappu Recipe (Andhra Tomato Dal)",
+    "image": "https://source.unsplash.com/800x600/?dal",
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "category": ["Telugu", "South Indian", "Vegan", "Dal"],
+    "ingredients": [
+      "1 cup toor dal",
+      "2 tomatoes (chopped)",
+      "1 onion (chopped)",
+      "2 green chilies (slit)",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "Salt to taste",
+      "For tempering: 2 tbsp oil, 1 tsp mustard seeds, 1 tsp cumin seeds, curry leaves, garlic cloves"
+    ],
+    "instructions": [
+      "Cook toor dal with turmeric powder until soft.",
+      "Heat oil in a pan, add mustard seeds and cumin seeds.",
+      "Add curry leaves, garlic cloves, and green chilies.",
+      "Add chopped onions and sauté until golden brown.",
+      "Add chopped tomatoes, red chili powder, and salt.",
+      "Cook until tomatoes turn mushy. Add cooked dal and mix well.",
+      "Simmer for 5 minutes. Serve hot with rice."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Andhra Dal Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Pudina Chutney Recipe (Mint Chutney)",
+    "image": "https://source.unsplash.com/800x600/?mint",
+    "time": "15 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "category": ["South Indian", "Vegan", "Chutney", "Side Dish"],
+    "ingredients": [
+      "1 cup fresh mint leaves",
+      "1/2 cup fresh coriander leaves",
+      "2 green chilies",
+      "1 inch ginger",
+      "1 tsp cumin seeds",
+      "1 tsp lemon juice",
+      "Salt to taste",
+      "Water as needed",
+      "For tempering: 1 tsp oil, mustard seeds, curry leaves"
+    ],
+    "instructions": [
+      "Wash mint and coriander leaves thoroughly.",
+      "Grind mint leaves, coriander leaves, green chilies, ginger, and cumin seeds.",
+      "Add lemon juice, salt, and water to make smooth paste.",
+      "Heat oil for tempering, add mustard seeds and curry leaves.",
+      "Pour tempering over chutney and mix well.",
+      "Serve fresh with dosas, idlis, or rice.",
+      "Store in refrigerator for up to 2 days."
+    ],
+    "credit": {
+      "display": "Cooking Credits: South Indian Chutney Masters",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
     }
   }
