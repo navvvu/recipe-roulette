@@ -99,10 +99,39 @@ function App() {
       <header className="header">
         <div className="header-row container">
           <div className="brand">
-            <h1 className="title">food for thought</h1>
-            <span className="tagline">
-              and recipes to reminisce
-            </span>
+            <div className="logo-container">
+              <svg className="logo" viewBox="0 0 100 100" width="40" height="40">
+                <defs>
+                  <pattern id="potPattern" patternUnits="userSpaceOnUse" width="4" height="4">
+                    <rect width="4" height="4" fill="#D98663"/>
+                    <circle cx="2" cy="2" r="0.5" fill="#F5EFE6"/>
+                  </pattern>
+                </defs>
+                {/* Pot Body */}
+                <ellipse cx="50" cy="65" rx="25" ry="20" fill="#D98663" stroke="#2E2E2E" strokeWidth="1.5"/>
+                {/* Pot Lid */}
+                <ellipse cx="50" cy="45" rx="22" ry="8" fill="#D98663" stroke="#2E2E2E" strokeWidth="1.5"/>
+                {/* Lid Knob */}
+                <circle cx="50" cy="38" r="3" fill="#D98663" stroke="#2E2E2E" strokeWidth="1"/>
+                {/* Handles */}
+                <path d="M 25 55 Q 20 55 20 60 Q 20 65 25 65" fill="none" stroke="#2E2E2E" strokeWidth="2"/>
+                <path d="M 75 55 Q 80 55 80 60 Q 80 65 75 65" fill="none" stroke="#2E2E2E" strokeWidth="2"/>
+                {/* Decorative Bands */}
+                <ellipse cx="50" cy="50" rx="20" ry="3" fill="#F5EFE6"/>
+                <ellipse cx="50" cy="60" rx="22" ry="3" fill="#F5EFE6"/>
+                <ellipse cx="50" cy="70" rx="20" ry="3" fill="#F5EFE6"/>
+                {/* Steam */}
+                <path d="M 50 35 Q 45 25 50 20 Q 55 25 50 35" fill="#EDC9A9" opacity="0.8"/>
+                <path d="M 50 35 Q 55 30 60 25 Q 65 30 60 35" fill="#EDC9A9" opacity="0.6"/>
+                <path d="M 50 35 Q 40 30 35 25 Q 40 30 45 35" fill="#EDC9A9" opacity="0.7"/>
+              </svg>
+            </div>
+            <div className="brand-text">
+              <h1 className="title">food for thought</h1>
+              <span className="tagline">
+                and recipes to reminisce
+              </span>
+            </div>
           </div>
 
           <div className="buttons">
