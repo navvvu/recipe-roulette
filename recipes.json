@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Hyderabadi Chicken Biryani",
-    "image": "https://images.unsplash.com/photo-1601050690597-8df4d8b8d5a8?w=800",
+    "image": "https://picsum.photos/800/600?random=1",
     "time": "60 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -33,7 +33,7 @@
   {
     "id": 2,
     "title": "Pesarattu (Green Gram Dosa)",
-    "image": "https://images.unsplash.com/photo-1600784585811-7d9921fdf98b?w=800",
+    "image": "https://picsum.photos/800/600?random=2",
     "time": "25 min",
     "servings": 3,
     "difficulty": "Easy",
@@ -61,7 +61,7 @@
   {
     "id": 3,
     "title": "Gongura Pachadi (Sorrel Leaves Chutney)",
-    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+    "image": "https://picsum.photos/800/600?random=3",
     "time": "20 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -94,7 +94,7 @@
   {
     "id": 4,
     "title": "Andhra Chicken Curry",
-    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800",
+    "image": "https://picsum.photos/800/600?random=4",
     "time": "45 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -130,7 +130,7 @@
   {
     "id": 5,
     "title": "Rava Dosa (Semolina Crepes)",
-    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
+    "image": "https://picsum.photos/800/600?random=5",
     "time": "30 min",
     "servings": 3,
     "difficulty": "Easy",
@@ -166,7 +166,7 @@
   {
     "id": 6,
     "title": "Pulihora (Tamarind Rice)",
-    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800",
+    "image": "https://picsum.photos/800/600?random=6",
     "time": "25 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -201,7 +201,7 @@
   {
     "id": 7,
     "title": "Coconut Chutney",
-    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+    "image": "https://picsum.photos/800/600?random=7",
     "time": "10 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -233,7 +233,7 @@
   {
     "id": 8,
     "title": "Bisi Bele Bath (Spicy Rice & Lentils)",
-    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800",
+    "image": "https://picsum.photos/800/600?random=8",
     "time": "50 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -269,7 +269,7 @@
   {
     "id": 9,
     "title": "Masala Dosa",
-    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
+    "image": "https://picsum.photos/800/600?random=9",
     "time": "40 min",
     "servings": 3,
     "difficulty": "Medium",
@@ -298,7 +298,7 @@
   {
     "id": 10,
     "title": "Gutti Vankaya (Stuffed Brinjal Curry)",
-    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800",
+    "image": "https://picsum.photos/800/600?random=10",
     "time": "35 min",
     "servings": 4,
     "difficulty": "Medium",
