@@ -1,13 +1,16 @@
 [
   {
-    "id": 31,
+    "id": 51,
     "title": "Gulab Jamun",
     "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Gulab+Jamun",
     "time": "45 min",
     "servings": 6,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Dessert", "Other"],
+    "category": [
+      "Dessert",
+      "Other"
+    ],
     "ingredients": [
       "1 cup milk powder",
       "1/4 cup all-purpose flour",
@@ -32,14 +35,17 @@
     }
   },
   {
-    "id": 32,
+    "id": 52,
     "title": "Rasgulla",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Rasgulla",
     "time": "60 min",
     "servings": 8,
     "difficulty": "Hard",
     "rating": 4.8,
-    "category": ["Dessert", "Other"],
+    "category": [
+      "Dessert",
+      "Other"
+    ],
     "ingredients": [
       "1 liter full-fat milk",
       "2 tbsp lemon juice",
@@ -63,14 +69,17 @@
     }
   },
   {
-    "id": 33,
+    "id": 53,
     "title": "Kheer (Rice Pudding)",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Kheer",
     "time": "40 min",
     "servings": 6,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["Dessert", "Other"],
+    "category": [
+      "Dessert",
+      "Other"
+    ],
     "ingredients": [
       "1/2 cup basmati rice",
       "1 liter full-fat milk",
@@ -95,14 +104,17 @@
     }
   },
   {
-    "id": 34,
+    "id": 54,
     "title": "Halwa (Carrot Halwa)",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Carrot+Halwa",
     "time": "50 min",
     "servings": 6,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["Dessert", "Other"],
+    "category": [
+      "Dessert",
+      "Other"
+    ],
     "ingredients": [
       "1 kg carrots (grated)",
       "1 liter full-fat milk",
@@ -127,14 +139,17 @@
     }
   },
   {
-    "id": 35,
+    "id": 55,
     "title": "Jalebi",
     "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Jalebi",
     "time": "35 min",
     "servings": 8,
     "difficulty": "Hard",
     "rating": 4.9,
-    "category": ["Dessert", "Other"],
+    "category": [
+      "Dessert",
+      "Other"
+    ],
     "ingredients": [
       "1 cup all-purpose flour",
       "1/4 cup cornflour",
@@ -159,14 +174,17 @@
     }
   },
   {
-    "id": 36,
+    "id": 56,
     "title": "Payasam (Kerala Style)",
     "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Payasam",
     "time": "30 min",
     "servings": 6,
     "difficulty": "Easy",
     "rating": 4.8,
-    "category": ["Dessert", "Kerala"],
+    "category": [
+      "Dessert",
+      "Kerala"
+    ],
     "ingredients": [
       "1/2 cup vermicelli",
       "1 liter coconut milk",
@@ -190,14 +208,17 @@
     }
   },
   {
-    "id": 37,
+    "id": 57,
     "title": "Badam Halwa (Almond Halwa)",
     "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Badam+Halwa",
     "time": "45 min",
     "servings": 6,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Dessert", "Other"],
+    "category": [
+      "Dessert",
+      "Other"
+    ],
     "ingredients": [
       "1 cup almonds (soaked overnight)",
       "1/2 cup sugar",
@@ -222,14 +243,17 @@
     }
   },
   {
-    "id": 38,
+    "id": 58,
     "title": "Ladoo (Besan Ladoo)",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Besan+Ladoo",
     "time": "25 min",
     "servings": "12 pieces",
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["Dessert", "Other"],
+    "category": [
+      "Dessert",
+      "Other"
+    ],
     "ingredients": [
       "2 cups besan (gram flour)",
       "1 cup powdered sugar",
@@ -253,14 +277,17 @@
     }
   },
   {
-    "id": 39,
+    "id": 59,
     "title": "Ras Malai",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Ras+Malai",
     "time": "60 min",
     "servings": 8,
     "difficulty": "Hard",
     "rating": 4.9,
-    "category": ["Dessert", "Other"],
+    "category": [
+      "Dessert",
+      "Other"
+    ],
     "ingredients": [
       "1 liter full-fat milk",
       "2 tbsp lemon juice",
@@ -285,14 +312,17 @@
     }
   },
   {
-    "id": 40,
+    "id": 60,
     "title": "Kulfi (Indian Ice Cream)",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Kulfi",
     "time": "4 hours",
     "servings": 8,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["Dessert", "Other"],
+    "category": [
+      "Dessert",
+      "Other"
+    ],
     "ingredients": [
       "1 liter full-fat milk",
       "1/2 cup condensed milk",

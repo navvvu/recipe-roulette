@@ -1,13 +1,16 @@
 [
   {
-    "id": 26,
+    "id": 46,
     "title": "Vangibath (Karnataka Style Eggplant Rice)",
     "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Vangibath",
     "time": "30 min",
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.9,
-    "category": ["Kannada", "Vegetarian"],
+    "category": [
+      "Kannada",
+      "Vegetarian"
+    ],
     "ingredients": [
       "2 cups cooked rice",
       "2 medium brinjals (chopped)",
@@ -23,7 +26,7 @@
     "instructions": [
       "Heat oil in a pan, add mustard seeds and let them splutter.",
       "Add urad dal, chana dal, and dried red chilies.",
-      "Sauté until dals turn golden brown.",
+      "Saut\u00e9 until dals turn golden brown.",
       "Add curry leaves and chopped brinjals.",
       "Cook brinjals until tender, add vangibath powder and salt.",
       "Add cooked rice and mix gently until well combined.",
@@ -35,14 +38,17 @@
     }
   },
   {
-    "id": 27,
+    "id": 47,
     "title": "Bisi Bele Bath (Karnataka Style)",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Bisi+Bele+Bath",
     "time": "50 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["Kannada", "Vegetarian"],
+    "category": [
+      "Kannada",
+      "Vegetarian"
+    ],
     "ingredients": [
       "1 cup rice",
       "1/2 cup toor dal",
@@ -71,14 +77,17 @@
     }
   },
   {
-    "id": 28,
+    "id": 48,
     "title": "Ragi Mudde (Finger Millet Balls)",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Ragi+Mudde",
     "time": "25 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["Kannada", "Vegetarian"],
+    "category": [
+      "Kannada",
+      "Vegetarian"
+    ],
     "ingredients": [
       "2 cups ragi flour",
       "4 cups water",
@@ -98,14 +107,17 @@
     }
   },
   {
-    "id": 29,
+    "id": 49,
     "title": "Karnataka Style Chicken Curry",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Karnataka+Chicken+Curry",
     "time": "45 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["Kannada", "Non-Veg"],
+    "category": [
+      "Kannada",
+      "Non-Veg"
+    ],
     "ingredients": [
       "500g chicken pieces",
       "2 onions (chopped)",
@@ -120,7 +132,7 @@
     ],
     "instructions": [
       "Marinate chicken with turmeric and salt for 30 minutes.",
-      "Heat oil, add onions and sauté until golden brown.",
+      "Heat oil, add onions and saut\u00e9 until golden brown.",
       "Add tomatoes and cook until mushy.",
       "Add spice powders and cook until oil separates.",
       "Add marinated chicken and cook covered until tender.",
@@ -132,14 +144,17 @@
     }
   },
   {
-    "id": 30,
+    "id": 50,
     "title": "Karnataka Style Sambar",
     "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Karnataka+Sambar",
     "time": "35 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Kannada", "Vegetarian"],
+    "category": [
+      "Kannada",
+      "Vegetarian"
+    ],
     "ingredients": [
       "1/2 cup toor dal",
       "1 cup mixed vegetables",

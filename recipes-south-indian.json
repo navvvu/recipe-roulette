@@ -1,13 +1,16 @@
 [
   {
-    "id": 11,
+    "id": 31,
     "title": "Masala Dosa",
     "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Masala+Dosa",
     "time": "40 min",
     "servings": 3,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["South Indian", "Breakfast"],
+    "category": [
+      "South Indian",
+      "Breakfast"
+    ],
     "ingredients": [
       "For dosa batter: 2 cups rice, 1 cup urad dal, salt",
       "For potato masala: 3 potatoes, 1 onion, 2 green chilies, curry leaves, mustard seeds, turmeric, salt",
@@ -19,7 +22,7 @@
       "Grind separately, mix together, add salt, and ferment overnight.",
       "Boil potatoes, peel and mash them.",
       "Heat oil, add mustard seeds, curry leaves, and green chilies.",
-      "Add onions, sauté until golden, add turmeric and salt.",
+      "Add onions, saut\u00e9 until golden, add turmeric and salt.",
       "Add mashed potatoes and mix well.",
       "Make thin dosas, add potato masala, fold, and serve hot."
     ],
@@ -29,14 +32,17 @@
     }
   },
   {
-    "id": 12,
+    "id": 32,
     "title": "Sambar Recipe",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Sambar",
     "time": "35 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["South Indian", "Vegetarian"],
+    "category": [
+      "South Indian",
+      "Vegetarian"
+    ],
     "ingredients": [
       "1/2 cup toor dal",
       "1 cup mixed vegetables (drumstick, carrot, beans, brinjal)",
@@ -61,14 +67,17 @@
     }
   },
   {
-    "id": 13,
+    "id": 33,
     "title": "Idli Recipe",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Idli",
     "time": "45 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["South Indian", "Breakfast"],
+    "category": [
+      "South Indian",
+      "Breakfast"
+    ],
     "ingredients": [
       "2 cups idli rice",
       "1 cup urad dal",
@@ -91,14 +100,17 @@
     }
   },
   {
-    "id": 14,
+    "id": 34,
     "title": "Coconut Chutney",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Coconut+Chutney",
     "time": "10 min",
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.5,
-    "category": ["South Indian", "Other"],
+    "category": [
+      "South Indian",
+      "Other"
+    ],
     "ingredients": [
       "1 cup fresh grated coconut",
       "2 tbsp roasted chana dal",
@@ -124,14 +136,17 @@
     }
   },
   {
-    "id": 15,
+    "id": 35,
     "title": "Rasam Recipe",
     "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Rasam",
     "time": "20 min",
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.8,
-    "category": ["South Indian", "Other"],
+    "category": [
+      "South Indian",
+      "Other"
+    ],
     "ingredients": [
       "1/2 cup toor dal (cooked)",
       "2 tomatoes (chopped)",
@@ -156,14 +171,17 @@
     }
   },
   {
-    "id": 16,
+    "id": 36,
     "title": "Bisi Bele Bath",
     "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Bisi+Bele+Bath",
     "time": "50 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["South Indian", "Vegetarian"],
+    "category": [
+      "South Indian",
+      "Vegetarian"
+    ],
     "ingredients": [
       "1 cup rice",
       "1/2 cup toor dal",
@@ -192,14 +210,17 @@
     }
   },
   {
-    "id": 17,
+    "id": 37,
     "title": "Medu Vada",
     "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Medu+Vada",
     "time": "30 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["South Indian", "Breakfast"],
+    "category": [
+      "South Indian",
+      "Breakfast"
+    ],
     "ingredients": [
       "1 cup urad dal (soaked overnight)",
       "1 tsp cumin seeds",
@@ -225,14 +246,17 @@
     }
   },
   {
-    "id": 18,
+    "id": 38,
     "title": "Rava Dosa",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Rava+Dosa",
     "time": "30 min",
     "servings": 3,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["South Indian", "Breakfast"],
+    "category": [
+      "South Indian",
+      "Breakfast"
+    ],
     "ingredients": [
       "1 cup semolina (rava)",
       "1/2 cup rice flour",
@@ -261,14 +285,17 @@
     }
   },
   {
-    "id": 19,
+    "id": 39,
     "title": "Tomato Rice",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Tomato+Rice",
     "time": "30 min",
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["South Indian", "Vegetarian"],
+    "category": [
+      "South Indian",
+      "Vegetarian"
+    ],
     "ingredients": [
       "2 cups cooked rice",
       "3 tomatoes (chopped)",
@@ -285,7 +312,7 @@
     "instructions": [
       "Heat oil in a pan, add mustard seeds and cumin seeds.",
       "Add curry leaves, green chilies, and sliced onions.",
-      "Sauté until onions turn golden brown.",
+      "Saut\u00e9 until onions turn golden brown.",
       "Add chopped tomatoes, turmeric, red chili powder, and salt.",
       "Cook until tomatoes turn mushy and oil separates.",
       "Add cooked rice and mix gently until well combined.",
@@ -297,14 +324,17 @@
     }
   },
   {
-    "id": 20,
+    "id": 40,
     "title": "Coconut Rice",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Coconut+Rice",
     "time": "20 min",
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.5,
-    "category": ["South Indian", "Vegetarian"],
+    "category": [
+      "South Indian",
+      "Vegetarian"
+    ],
     "ingredients": [
       "2 cups cooked rice",
       "1 cup fresh grated coconut",
@@ -319,8 +349,8 @@
     "instructions": [
       "Heat oil in a pan, add mustard seeds and let them splutter.",
       "Add urad dal, chana dal, and dried red chilies.",
-      "Sauté until dals turn golden brown.",
-      "Add curry leaves and grated coconut. Sauté for 2 minutes.",
+      "Saut\u00e9 until dals turn golden brown.",
+      "Add curry leaves and grated coconut. Saut\u00e9 for 2 minutes.",
       "Add salt and mix well.",
       "Add cooked rice and mix gently until well combined.",
       "Cook for 2-3 minutes on low heat. Serve hot."

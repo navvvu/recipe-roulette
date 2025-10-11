@@ -7,12 +7,11 @@ function App() {
   const [error, setError] = useState("");
   const [search, setSearch] = useState("");
 
-  // 1) Load all recipe files from the repo root
+  // 1) Load all recipe files
   useEffect(() => {
-    (async () => {
+    const loadRecipes = async () => {
       try {
-        // Load all recipe files
-        const recipeFiles = [
+        const files = [
           "./recipes.json",
           "./recipes-telugu.json", 
           "./recipes-south-indian.json",
@@ -24,27 +23,30 @@ function App() {
         
         const allRecipes = [];
         
-        for (const file of recipeFiles) {
+        for (const file of files) {
           try {
-            const res = await fetch(file, { cache: "no-store" });
-            if (res.ok) {
-              const data = await res.json();
+            const response = await fetch(file);
+            if (response.ok) {
+              const data = await response.json();
               if (Array.isArray(data)) {
                 allRecipes.push(...data);
               }
             }
-          } catch (e) {
-            console.log(`Could not load ${file}:`, e.message);
+          } catch (err) {
+            // Skip files that don't exist
+            continue;
           }
         }
         
         setRecipes(allRecipes);
       } catch (e) {
-        setError(e.message || "Failed to load recipes");
+        setError("Failed to load recipes");
       } finally {
         setLoading(false);
       }
-    })();
+    };
+    
+    loadRecipes();
   }, []);
 
   // 2) Filter by title or category text
@@ -52,13 +54,32 @@ function App() {
     if (!r || !r.title) return false;
     const q = search.toLowerCase().trim();
     if (!q) return true;
-    const cat = Array.isArray(r.category) ? r.category.join(", ") : (r.category || "");
-    return r.title.toLowerCase().includes(q) || cat.toLowerCase().includes(q);
+    
+    const title = r.title.toLowerCase();
+    const categories = Array.isArray(r.category) ? r.category.join(" ").toLowerCase() : (r.category || "").toLowerCase();
+    const ingredients = Array.isArray(r.ingredients) ? r.ingredients.join(" ").toLowerCase() : "";
+    
+    return title.includes(q) || categories.includes(q) || ingredients.includes(q);
   });
 
   // ---------- Loading / Error ----------
-  if (loading) return <p style={{ padding: "2rem" }}>Loading recipes…</p>;
-  if (error) return <p style={{ padding: "2rem" }}>⚠️ {error}</p>;
+  if (loading) {
+    return (
+      <div style={{ padding: "2rem", textAlign: "center" }}>
+        <h2>Loading recipes...</h2>
+        <p>Please wait while we load your family recipe collection</p>
+      </div>
+    );
+  }
+  
+  if (error) {
+    return (
+      <div style={{ padding: "2rem", textAlign: "center" }}>
+        <h2>⚠️ {error}</h2>
+        <p>Please refresh the page to try again</p>
+      </div>
+    );
+  }
 
   // ---------- Detail View ----------
   if (selected) {
@@ -68,14 +89,12 @@ function App() {
 
         <div className="detail" style={{ marginTop: 16 }}>
           <img
-            src={selected.id === 1 ? './images/biryani.jpg' : `./images/${selected.id}.jpg`}
+            src={selected.id === 1 ? './images/hyderabadibiryani.jpg' : selected.id === 24 ? './images/andhrachickencurry.jpg' : selected.image}
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
-            onError={(e) => { 
-              // Simple fallback to placeholder
-              if (!e.target.src.includes('placeholder')) {
-                e.target.src = selected.image;
-              }
+            onError={(e) => {
+              // Fallback to placeholder if specific image fails
+              e.target.src = selected.image;
             }}
           />
           <div className="detail-body">
@@ -132,7 +151,16 @@ function App() {
         <div className="header-row container">
           <div className="brand">
             <div className="logo-container">
-              <img src="./images/image.jpg" alt="Cooking Pot Logo" className="logo-image" />
+              <img 
+                src="./images/matki.jpg" 
+                alt="Cooking Pot Logo" 
+                className="logo-image"
+                onError={(e) => {
+                  // If image fails, show a simple cooking pot emoji
+                  e.target.style.display = 'none';
+                  e.target.parentNode.innerHTML = '<div style="font-size: 32px;">🍲</div>';
+                }}
+              />
             </div>
             <div className="brand-text">
               <h1 className="title">food for thought</h1>
@@ -144,7 +172,16 @@ function App() {
 
           <div className="buttons">
             <div className="logo-container right-logo">
-              <img src="./images/image.jpg" alt="Cooking Pot Logo" className="logo-image" />
+              <img 
+                src="./images/matki.jpg" 
+                alt="Cooking Pot Logo" 
+                className="logo-image"
+                onError={(e) => {
+                  // If image fails, show a simple cooking pot emoji
+                  e.target.style.display = 'none';
+                  e.target.parentNode.innerHTML = '<div style="font-size: 32px;">🍲</div>';
+                }}
+              />
             </div>
             <a
               className="button ghost"
@@ -165,6 +202,7 @@ function App() {
             placeholder="Search recipes or categories…"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
+            style={{ fontSize: '16px', padding: '12px' }}
           />
         </div>
       </header>
@@ -173,14 +211,13 @@ function App() {
         {filtered.map((r) => (
           <div className="card" key={r.id} onClick={() => setSelected(r)}>
             <img 
-              src={r.id === 1 ? './images/biryani.jpg' : `./images/${r.id}.jpg`} 
-              alt={r.title} 
-              onError={(e) => { 
-                // Simple fallback to placeholder
-                if (!e.target.src.includes('placeholder')) {
-                  e.target.src = r.image;
-                }
-              }} 
+              src={r.id === 1 ? './images/hyderabadibiryani.jpg' : r.id === 24 ? './images/andhrachickencurry.jpg' : r.image} 
+              alt={r.title}
+              loading="lazy"
+              onError={(e) => {
+                // Fallback to placeholder if specific image fails
+                e.target.src = r.image;
+              }}
             />
             <div className="card-body">
               <h3>{r.title}</h3>
@@ -194,7 +231,7 @@ function App() {
 
         {filtered.length === 0 && (
           <div style={{ gridColumn: "1 / -1", textAlign: "center", opacity: 0.7 }}>
-            No recipes yet. Add some to <code>recipes.json</code> or use the Google Form.
+            {search ? `No recipes found for "${search}". Try searching for "biryani", "chicken", or "dessert".` : "No recipes yet. Add some to recipes.json or use the Google Form."}
           </div>
         )}
       </main>

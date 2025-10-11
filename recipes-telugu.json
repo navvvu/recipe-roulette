@@ -1,13 +1,16 @@
 [
   {
-    "id": 1,
+    "id": 21,
     "title": "Hyderabadi Chicken Biryani",
     "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Indian+Food",
     "time": "60 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Telugu", "Non-Veg"],
+    "category": [
+      "Telugu",
+      "Non-Veg"
+    ],
     "ingredients": [
       "2 cups basmati rice",
       "500g chicken (marinated in yogurt, chili, and biryani masala)",
@@ -26,19 +29,22 @@
       "Seal with lid and cook on low flame for 20 minutes (dum)."
     ],
     "credit": {
-      "display": "Cooking Credits: Amma 💛",
+      "display": "Cooking Credits: Amma \ud83d\udc9b",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
     }
   },
   {
-    "id": 2,
-    "title": "పెసరట్టు (Pesarattu)",
+    "id": 22,
+    "title": "\u0c2a\u0c46\u0c38\u0c30\u0c1f\u0c4d\u0c1f\u0c41 (Pesarattu)",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Telugu+Cuisine",
     "time": "25 min",
     "servings": 3,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["Telugu", "Breakfast"],
+    "category": [
+      "Telugu",
+      "Breakfast"
+    ],
     "ingredients": [
       "1 cup green gram (moong dal)",
       "1-inch ginger piece",
@@ -59,14 +65,17 @@
     }
   },
   {
-    "id": 3,
+    "id": 23,
     "title": "Gongura Pachadi (Sorrel Leaves Chutney)",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Telugu+Cuisine",
     "time": "20 min",
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.8,
-    "category": ["Telugu", "Other"],
+    "category": [
+      "Telugu",
+      "Other"
+    ],
     "ingredients": [
       "2 cups gongura leaves (sorrel leaves)",
       "1/2 cup tamarind pulp",
@@ -81,7 +90,7 @@
     "instructions": [
       "Wash and clean gongura leaves thoroughly.",
       "Heat oil in a pan, add mustard seeds and cumin seeds.",
-      "Add dried red chilies and garlic, sauté until fragrant.",
+      "Add dried red chilies and garlic, saut\u00e9 until fragrant.",
       "Add gongura leaves and cook until they wilt completely.",
       "Add tamarind pulp, salt, and turmeric powder.",
       "Cook for 5-7 minutes until oil separates. Cool and grind to paste."
@@ -92,14 +101,17 @@
     }
   },
   {
-    "id": 4,
+    "id": 24,
     "title": "Andhra Chicken Curry",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Andhra+Spices",
     "time": "45 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Telugu", "Non-Veg"],
+    "category": [
+      "Telugu",
+      "Non-Veg"
+    ],
     "ingredients": [
       "500g chicken pieces",
       "2 onions (finely chopped)",
@@ -115,7 +127,7 @@
     ],
     "instructions": [
       "Marinate chicken with turmeric, salt, and half the ginger-garlic paste for 30 minutes.",
-      "Heat oil in a pan, add onions and sauté until golden brown.",
+      "Heat oil in a pan, add onions and saut\u00e9 until golden brown.",
       "Add remaining ginger-garlic paste and cook until raw smell disappears.",
       "Add tomatoes and cook until they turn mushy.",
       "Add all spice powders and cook until oil separates.",
@@ -128,14 +140,17 @@
     }
   },
   {
-    "id": 5,
+    "id": 25,
     "title": "Pulihora (Tamarind Rice)",
     "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Pulihora",
     "time": "25 min",
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["Telugu", "Other"],
+    "category": [
+      "Telugu",
+      "Other"
+    ],
     "ingredients": [
       "2 cups cooked rice (cooled)",
       "1/2 cup tamarind pulp",
@@ -163,14 +178,17 @@
     }
   },
   {
-    "id": 6,
+    "id": 26,
     "title": "Gutti Vankaya (Stuffed Brinjal Curry)",
     "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Gutti+Vankaya",
     "time": "35 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["Telugu", "Vegetarian"],
+    "category": [
+      "Telugu",
+      "Vegetarian"
+    ],
     "ingredients": [
       "8-10 small brinjals",
       "1/2 cup roasted peanuts",
@@ -199,14 +217,17 @@
     }
   },
   {
-    "id": 7,
+    "id": 27,
     "title": "Tomato Pappu Recipe (Andhra Tomato Dal)",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Tomato+Pappu",
     "time": "25 min",
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["Telugu", "Vegetarian"],
+    "category": [
+      "Telugu",
+      "Vegetarian"
+    ],
     "ingredients": [
       "1 cup toor dal",
       "2 tomatoes (chopped)",
@@ -221,7 +242,7 @@
       "Cook toor dal with turmeric powder until soft.",
       "Heat oil in a pan, add mustard seeds and cumin seeds.",
       "Add curry leaves, garlic cloves, and green chilies.",
-      "Add chopped onions and sauté until golden brown.",
+      "Add chopped onions and saut\u00e9 until golden brown.",
       "Add chopped tomatoes, red chili powder, and salt.",
       "Cook until tomatoes turn mushy. Add cooked dal and mix well.",
       "Simmer for 5 minutes. Serve hot with rice."
@@ -232,14 +253,17 @@
     }
   },
   {
-    "id": 8,
+    "id": 28,
     "title": "Royyala Vepudu (Prawn Fry)",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Royyala+Vepudu",
     "time": "20 min",
     "servings": 3,
     "difficulty": "Easy",
     "rating": 4.8,
-    "category": ["Telugu", "Non-Veg"],
+    "category": [
+      "Telugu",
+      "Non-Veg"
+    ],
     "ingredients": [
       "500g prawns (cleaned)",
       "1 tsp turmeric powder",
@@ -263,14 +287,17 @@
     }
   },
   {
-    "id": 9,
+    "id": 29,
     "title": "Bobbatlu (Puran Poli)",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Bobbatlu",
     "time": "60 min",
     "servings": 6,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Telugu", "Baking"],
+    "category": [
+      "Telugu",
+      "Baking"
+    ],
     "ingredients": [
       "For outer covering: 2 cups maida, 1/4 cup oil, salt, water",
       "For filling: 1 cup chana dal, 1 cup jaggery, 1/2 tsp cardamom powder, 2 tbsp ghee"
@@ -290,14 +317,17 @@
     }
   },
   {
-    "id": 10,
+    "id": 30,
     "title": "Chepa Pulusu (Fish Curry)",
     "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Chepa+Pulusu",
     "time": "30 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["Telugu", "Non-Veg"],
+    "category": [
+      "Telugu",
+      "Non-Veg"
+    ],
     "ingredients": [
       "500g fish pieces",
       "1/2 cup tamarind pulp",
@@ -312,7 +342,7 @@
     ],
     "instructions": [
       "Marinate fish with turmeric and salt for 15 minutes.",
-      "Heat oil, add onions and sauté until golden.",
+      "Heat oil, add onions and saut\u00e9 until golden.",
       "Add tomatoes and cook until mushy.",
       "Add all spice powders and cook until oil separates.",
       "Add tamarind pulp and water, bring to boil.",

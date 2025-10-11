@@ -1,13 +1,16 @@
 [
   {
-    "id": 21,
+    "id": 41,
     "title": "Kerala Fish Curry",
     "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Kerala+Fish+Curry",
     "time": "30 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["Kerala", "Non-Veg"],
+    "category": [
+      "Kerala",
+      "Non-Veg"
+    ],
     "ingredients": [
       "500g fish pieces",
       "1/2 cup coconut milk",
@@ -22,7 +25,7 @@
     ],
     "instructions": [
       "Marinate fish with turmeric and salt for 15 minutes.",
-      "Heat coconut oil, add onions and sauté until golden.",
+      "Heat coconut oil, add onions and saut\u00e9 until golden.",
       "Add tomatoes and cook until mushy.",
       "Add spice powders and cook until oil separates.",
       "Add coconut milk and bring to gentle boil.",
@@ -35,14 +38,17 @@
     }
   },
   {
-    "id": 22,
+    "id": 42,
     "title": "Appam (Kerala Rice Pancakes)",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Appam",
     "time": "40 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["Kerala", "Breakfast"],
+    "category": [
+      "Kerala",
+      "Breakfast"
+    ],
     "ingredients": [
       "2 cups raw rice",
       "1/2 cup cooked rice",
@@ -67,14 +73,17 @@
     }
   },
   {
-    "id": 23,
+    "id": 43,
     "title": "Kerala Chicken Curry",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Kerala+Chicken+Curry",
     "time": "45 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Kerala", "Non-Veg"],
+    "category": [
+      "Kerala",
+      "Non-Veg"
+    ],
     "ingredients": [
       "500g chicken pieces",
       "1/2 cup coconut milk",
@@ -90,7 +99,7 @@
     ],
     "instructions": [
       "Marinate chicken with turmeric, salt, and half the spice powders.",
-      "Heat coconut oil, add onions and sauté until golden.",
+      "Heat coconut oil, add onions and saut\u00e9 until golden.",
       "Add tomatoes and cook until mushy.",
       "Add remaining spice powders and cook until oil separates.",
       "Add marinated chicken and cook covered until tender.",
@@ -103,14 +112,17 @@
     }
   },
   {
-    "id": 24,
+    "id": 44,
     "title": "Puttu (Steamed Rice Cakes)",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Puttu",
     "time": "30 min",
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["Kerala", "Breakfast"],
+    "category": [
+      "Kerala",
+      "Breakfast"
+    ],
     "ingredients": [
       "2 cups rice flour",
       "1/2 cup grated coconut",
@@ -130,14 +142,17 @@
     }
   },
   {
-    "id": 25,
+    "id": 45,
     "title": "Kerala Sambar",
     "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Kerala+Sambar",
     "time": "35 min",
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["Kerala", "Vegetarian"],
+    "category": [
+      "Kerala",
+      "Vegetarian"
+    ],
     "ingredients": [
       "1/2 cup toor dal",
       "1 cup mixed vegetables",

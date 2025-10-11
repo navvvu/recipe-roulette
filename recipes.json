@@ -7,7 +7,10 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Telugu", "Non-Veg"],
+    "category": [
+      "Telugu",
+      "Non-Veg"
+    ],
     "ingredients": [
       "2 cups basmati rice",
       "500g chicken (marinated in yogurt, chili, and biryani masala)",
@@ -26,7 +29,7 @@
       "Seal with lid and cook on low flame for 20 minutes (dum)."
     ],
     "credit": {
-      "display": "Cooking Credits: Amma 💛",
+      "display": "Cooking Credits: Amma \ud83d\udc9b",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
     }
   },
@@ -38,7 +41,10 @@
     "servings": 3,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["Telugu", "Breakfast"],
+    "category": [
+      "Telugu",
+      "Breakfast"
+    ],
     "ingredients": [
       "1 cup green gram (moong dal)",
       "1-inch ginger piece",
@@ -54,7 +60,7 @@
       "Serve hot with ginger chutney."
     ],
     "credit": {
-      "display": "Cooking Credits: Nanna 🫶",
+      "display": "Cooking Credits: Nanna \ud83e\udef6",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
     }
   },
@@ -66,7 +72,10 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.8,
-    "category": ["Telugu", "Other"],
+    "category": [
+      "Telugu",
+      "Other"
+    ],
     "ingredients": [
       "2 cups gongura leaves (sorrel leaves)",
       "1/2 cup tamarind pulp",
@@ -81,7 +90,7 @@
     "instructions": [
       "Wash and clean gongura leaves thoroughly.",
       "Heat oil in a pan, add mustard seeds and cumin seeds.",
-      "Add dried red chilies and garlic, sauté until fragrant.",
+      "Add dried red chilies and garlic, saut\u00e9 until fragrant.",
       "Add gongura leaves and cook until they wilt completely.",
       "Add tamarind pulp, salt, and turmeric powder.",
       "Cook for 5-7 minutes until oil separates. Cool and grind to paste."
@@ -99,7 +108,10 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["Telugu", "Non-Veg"],
+    "category": [
+      "Telugu",
+      "Non-Veg"
+    ],
     "ingredients": [
       "500g chicken pieces",
       "2 onions (finely chopped)",
@@ -115,7 +127,7 @@
     ],
     "instructions": [
       "Marinate chicken with turmeric, salt, and half the ginger-garlic paste for 30 minutes.",
-      "Heat oil in a pan, add onions and sauté until golden brown.",
+      "Heat oil in a pan, add onions and saut\u00e9 until golden brown.",
       "Add remaining ginger-garlic paste and cook until raw smell disappears.",
       "Add tomatoes and cook until they turn mushy.",
       "Add all spice powders and cook until oil separates.",
@@ -135,7 +147,10 @@
     "servings": 3,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["South Indian", "Breakfast"],
+    "category": [
+      "South Indian",
+      "Breakfast"
+    ],
     "ingredients": [
       "1 cup semolina (rava)",
       "1/2 cup rice flour",
@@ -171,7 +186,10 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["Telugu", "Other"],
+    "category": [
+      "Telugu",
+      "Other"
+    ],
     "ingredients": [
       "2 cups cooked rice (cooled)",
       "1/2 cup tamarind pulp",
@@ -206,7 +224,10 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.5,
-    "category": ["South Indian", "Other"],
+    "category": [
+      "South Indian",
+      "Other"
+    ],
     "ingredients": [
       "1 cup fresh grated coconut",
       "2 tbsp roasted chana dal",
@@ -239,7 +260,10 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["South Indian", "Vegetarian"],
+    "category": [
+      "South Indian",
+      "Vegetarian"
+    ],
     "ingredients": [
       "1 cup rice",
       "1/2 cup toor dal",
@@ -275,7 +299,10 @@
     "servings": 3,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["South Indian", "Breakfast"],
+    "category": [
+      "South Indian",
+      "Breakfast"
+    ],
     "ingredients": [
       "For dosa batter: 2 cups rice, 1 cup urad dal, salt",
       "For potato masala: 3 potatoes, 1 onion, 2 green chilies, curry leaves, mustard seeds, turmeric, salt",
@@ -287,7 +314,7 @@
       "Grind separately, mix together, add salt, and ferment overnight.",
       "Boil potatoes, peel and mash them.",
       "Heat oil, add mustard seeds, curry leaves, and green chilies.",
-      "Add onions, sauté until golden, add turmeric and salt.",
+      "Add onions, saut\u00e9 until golden, add turmeric and salt.",
       "Add mashed potatoes and mix well.",
       "Make thin dosas, add potato masala, fold, and serve hot."
     ],
@@ -304,7 +331,10 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["Telugu", "Vegetarian"],
+    "category": [
+      "Telugu",
+      "Vegetarian"
+    ],
     "ingredients": [
       "8-10 small brinjals",
       "1/2 cup roasted peanuts",
@@ -340,7 +370,10 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.8,
-    "category": ["South Indian", "Other"],
+    "category": [
+      "South Indian",
+      "Other"
+    ],
     "ingredients": [
       "1/2 cup toor dal (cooked)",
       "2 tomatoes (chopped)",
@@ -372,7 +405,10 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.9,
-    "category": ["South Indian", "Vegetarian"],
+    "category": [
+      "South Indian",
+      "Vegetarian"
+    ],
     "ingredients": [
       "1/2 cup toor dal",
       "1 cup mixed vegetables (drumstick, carrot, beans, brinjal)",
@@ -404,7 +440,10 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.7,
-    "category": ["South Indian", "Breakfast"],
+    "category": [
+      "South Indian",
+      "Breakfast"
+    ],
     "ingredients": [
       "1 cup urad dal (soaked overnight)",
       "1 tsp cumin seeds",
@@ -437,7 +476,10 @@
     "servings": 4,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["South Indian", "Breakfast"],
+    "category": [
+      "South Indian",
+      "Breakfast"
+    ],
     "ingredients": [
       "2 cups idli rice",
       "1 cup urad dal",
@@ -467,7 +509,10 @@
     "servings": 3,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["South Indian", "Breakfast"],
+    "category": [
+      "South Indian",
+      "Breakfast"
+    ],
     "ingredients": [
       "1 cup rice",
       "1/2 cup moong dal",
@@ -483,7 +528,7 @@
     "instructions": [
       "Wash rice and moong dal together.",
       "Heat ghee in pressure cooker, add cumin seeds and black pepper.",
-      "Add green chilies, ginger, and curry leaves. Sauté for 30 seconds.",
+      "Add green chilies, ginger, and curry leaves. Saut\u00e9 for 30 seconds.",
       "Add rice-dal mixture and water. Add salt and mix well.",
       "Pressure cook for 3 whistles on medium flame.",
       "Let pressure release naturally. Mix well and serve hot.",
@@ -502,7 +547,10 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.7,
-    "category": ["South Indian", "Vegetarian"],
+    "category": [
+      "South Indian",
+      "Vegetarian"
+    ],
     "ingredients": [
       "2 cups cooked rice",
       "3 tomatoes (chopped)",
@@ -519,7 +567,7 @@
     "instructions": [
       "Heat oil in a pan, add mustard seeds and cumin seeds.",
       "Add curry leaves, green chilies, and sliced onions.",
-      "Sauté until onions turn golden brown.",
+      "Saut\u00e9 until onions turn golden brown.",
       "Add chopped tomatoes, turmeric, red chili powder, and salt.",
       "Cook until tomatoes turn mushy and oil separates.",
       "Add cooked rice and mix gently until well combined.",
@@ -538,7 +586,10 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.5,
-    "category": ["South Indian", "Vegetarian"],
+    "category": [
+      "South Indian",
+      "Vegetarian"
+    ],
     "ingredients": [
       "2 cups cooked rice",
       "1 cup fresh grated coconut",
@@ -553,8 +604,8 @@
     "instructions": [
       "Heat oil in a pan, add mustard seeds and let them splutter.",
       "Add urad dal, chana dal, and dried red chilies.",
-      "Sauté until dals turn golden brown.",
-      "Add curry leaves and grated coconut. Sauté for 2 minutes.",
+      "Saut\u00e9 until dals turn golden brown.",
+      "Add curry leaves and grated coconut. Saut\u00e9 for 2 minutes.",
       "Add salt and mix well.",
       "Add cooked rice and mix gently until well combined.",
       "Cook for 2-3 minutes on low heat. Serve hot."
@@ -572,7 +623,10 @@
     "servings": 6,
     "difficulty": "Medium",
     "rating": 4.8,
-    "category": ["South Indian", "Other"],
+    "category": [
+      "South Indian",
+      "Other"
+    ],
     "ingredients": [
       "2 cups rice flour",
       "1/2 cup urad dal flour",
@@ -605,7 +659,10 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.6,
-    "category": ["Telugu", "Vegetarian"],
+    "category": [
+      "Telugu",
+      "Vegetarian"
+    ],
     "ingredients": [
       "1 cup toor dal",
       "2 tomatoes (chopped)",
@@ -620,7 +677,7 @@
       "Cook toor dal with turmeric powder until soft.",
       "Heat oil in a pan, add mustard seeds and cumin seeds.",
       "Add curry leaves, garlic cloves, and green chilies.",
-      "Add chopped onions and sauté until golden brown.",
+      "Add chopped onions and saut\u00e9 until golden brown.",
       "Add chopped tomatoes, red chili powder, and salt.",
       "Cook until tomatoes turn mushy. Add cooked dal and mix well.",
       "Simmer for 5 minutes. Serve hot with rice."
@@ -638,7 +695,10 @@
     "servings": 4,
     "difficulty": "Easy",
     "rating": 4.4,
-    "category": ["South Indian", "Other"],
+    "category": [
+      "South Indian",
+      "Other"
+    ],
     "ingredients": [
       "1 cup fresh mint leaves",
       "1/2 cup fresh coriander leaves",
