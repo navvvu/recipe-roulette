@@ -34,37 +34,6 @@
     }
   },
   {
-    "id": 22,
-    "title": "\u0c2a\u0c46\u0c38\u0c30\u0c1f\u0c4d\u0c1f\u0c41 (Pesarattu)",
-    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Telugu+Cuisine",
-    "time": "25 min",
-    "servings": 3,
-    "difficulty": "Easy",
-    "rating": 4.7,
-    "category": [
-      "Telugu",
-      "Breakfast"
-    ],
-    "ingredients": [
-      "1 cup green gram (moong dal)",
-      "1-inch ginger piece",
-      "2 green chilies",
-      "Salt to taste",
-      "Oil for roasting"
-    ],
-    "instructions": [
-      "Soak green gram overnight or for 6 hours.",
-      "Grind with ginger, green chilies, and salt to a smooth batter.",
-      "Heat a tawa, spread batter into thin dosa shape.",
-      "Roast both sides with a little oil until golden brown.",
-      "Serve hot with ginger chutney."
-    ],
-    "credit": {
-      "display": "Cooking Credits: Telugu Kitchen Traditions",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
     "id": 23,
     "title": "Royyala Vepudu (Prawn Fry)",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Royyala+Vepudu",

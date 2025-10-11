@@ -264,44 +264,6 @@
     }
   },
   {
-    "id": 68,
-    "title": "Fish Curry (Goan Style)",
-    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Goan+Fish+Curry",
-    "time": "35 min",
-    "servings": 4,
-    "difficulty": "Medium",
-    "rating": 4.8,
-    "category": [
-      "Non-Veg",
-      "Other"
-    ],
-    "ingredients": [
-      "500g fish pieces",
-      "1/2 cup coconut milk",
-      "2 onions (chopped)",
-      "2 tomatoes (chopped)",
-      "2 tbsp coconut oil",
-      "1 tsp turmeric powder",
-      "2 tsp red chili powder",
-      "1 tsp coriander powder",
-      "Curry leaves",
-      "Salt to taste"
-    ],
-    "instructions": [
-      "Marinate fish with turmeric and salt for 15 minutes.",
-      "Heat coconut oil, add onions and saut\u00e9 until golden.",
-      "Add tomatoes and cook until mushy.",
-      "Add spice powders and cook until oil separates.",
-      "Add coconut milk and bring to gentle boil.",
-      "Add fish pieces and cook until fish is tender.",
-      "Garnish with curry leaves and serve hot."
-    ],
-    "credit": {
-      "display": "Cooking Credits: Goan Coastal Kitchen",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
     "id": 69,
     "title": "Pav Bhaji",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Pav+Bhaji",
@@ -335,43 +297,6 @@
     ],
     "credit": {
       "display": "Cooking Credits: Mumbai Street Food Masters",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
-    "id": 70,
-    "title": "Chicken Curry (North Indian Style)",
-    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=North+Indian+Chicken+Curry",
-    "time": "45 min",
-    "servings": 4,
-    "difficulty": "Medium",
-    "rating": 4.8,
-    "category": [
-      "Non-Veg",
-      "Other"
-    ],
-    "ingredients": [
-      "500g chicken pieces",
-      "2 onions (chopped)",
-      "2 tomatoes (chopped)",
-      "2 tbsp oil",
-      "1 tsp ginger-garlic paste",
-      "1 tsp turmeric powder",
-      "2 tsp red chili powder",
-      "1 tsp coriander powder",
-      "1 tsp garam masala",
-      "Salt to taste"
-    ],
-    "instructions": [
-      "Marinate chicken with turmeric and salt for 30 minutes.",
-      "Heat oil, add onions and saut\u00e9 until golden brown.",
-      "Add tomatoes and cook until mushy.",
-      "Add ginger-garlic paste and spices.",
-      "Add marinated chicken and cook until tender.",
-      "Garnish with coriander leaves and serve hot."
-    ],
-    "credit": {
-      "display": "Cooking Credits: North Indian Curry Masters",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
     }
   }

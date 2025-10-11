@@ -38,45 +38,6 @@
     }
   },
   {
-    "id": 47,
-    "title": "Bisi Bele Bath (Karnataka Style)",
-    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Bisi+Bele+Bath",
-    "time": "50 min",
-    "servings": 4,
-    "difficulty": "Medium",
-    "rating": 4.8,
-    "category": [
-      "Kannada",
-      "Vegetarian"
-    ],
-    "ingredients": [
-      "1 cup rice",
-      "1/2 cup toor dal",
-      "1/4 cup mixed vegetables",
-      "2 tbsp bisi bele bath powder",
-      "1/2 cup tamarind pulp",
-      "2 tbsp oil",
-      "1 tsp mustard seeds",
-      "1 tsp cumin seeds",
-      "Curry leaves",
-      "Cashews and peanuts",
-      "Salt to taste"
-    ],
-    "instructions": [
-      "Cook rice and toor dal together until soft.",
-      "Heat oil, add mustard seeds, cumin seeds, and curry leaves.",
-      "Add cashews and peanuts, roast until golden.",
-      "Add vegetables and cook until tender.",
-      "Add bisi bele bath powder and tamarind pulp.",
-      "Add cooked rice-dal mixture and mix well.",
-      "Cook for 10-15 minutes on low heat. Serve hot."
-    ],
-    "credit": {
-      "display": "Cooking Credits: Karnataka Kitchen Traditions",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
     "id": 48,
     "title": "Ragi Mudde (Finger Millet Balls)",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Ragi+Mudde",
@@ -140,40 +101,6 @@
     ],
     "credit": {
       "display": "Cooking Credits: Karnataka Spice Masters",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
-    "id": 50,
-    "title": "Karnataka Style Sambar",
-    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Karnataka+Sambar",
-    "time": "35 min",
-    "servings": 4,
-    "difficulty": "Medium",
-    "rating": 4.9,
-    "category": [
-      "Kannada",
-      "Vegetarian"
-    ],
-    "ingredients": [
-      "1/2 cup toor dal",
-      "1 cup mixed vegetables",
-      "1 tbsp tamarind pulp",
-      "2 tbsp sambar powder",
-      "1 tsp turmeric powder",
-      "Salt to taste",
-      "For tempering: oil, mustard seeds, fenugreek seeds, dried red chilies, curry leaves"
-    ],
-    "instructions": [
-      "Cook toor dal until soft and mash it well.",
-      "Cook mixed vegetables until tender.",
-      "Add tamarind pulp, sambar powder, turmeric, and salt.",
-      "Add mashed dal and mix well. Simmer for 10 minutes.",
-      "Heat oil for tempering, add all tempering ingredients.",
-      "Pour tempering over sambar and serve hot."
-    ],
-    "credit": {
-      "display": "Cooking Credits: Karnataka Traditional Kitchen",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
     }
   }
