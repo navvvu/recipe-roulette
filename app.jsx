@@ -22,6 +22,7 @@ function App() {
       54: './images/carrothalwa.png',
       55: './images/jalebi.jpg',
       63: './images/palakpaneer.jpg',
+      65: './images/cholebhature.jpg',
       69: './images/pavbhaji.jpg'
     };
     const customImage = imageMap[recipe.id];
