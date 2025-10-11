@@ -255,6 +255,43 @@ html, body {
   transform: scale(1.1);
 }
 
+/* ---------- CATEGORY FILTERS ---------- */
+.category-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 0 24px;
+}
+
+.category-btn {
+  background: var(--cream);
+  color: var(--charcoal);
+  border: 2px solid var(--sage);
+  border-radius: 20px;
+  padding: 8px 16px;
+  font-family: var(--body);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.category-btn:hover {
+  background: var(--sage);
+  color: white;
+  transform: translateY(-1px);
+}
+
+.category-btn.active {
+  background: var(--terracotta);
+  color: white;
+  border-color: var(--terracotta);
+}
+
 /* ---------- GRID ---------- */
 .grid {
   display: grid;

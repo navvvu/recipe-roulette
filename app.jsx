@@ -6,6 +6,7 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [search, setSearch] = useState("");
+  const [selectedCategory, setSelectedCategory] = useState("");
 
   // Helper function to get image URL
   const getImageUrl = (recipe) => {
@@ -83,9 +84,19 @@ function App() {
     loadRecipes();
   }, []);
 
-  // 2) Filter by title or category text
+  // 2) Filter by search text and category
   const filtered = recipes.filter((r) => {
     if (!r || !r.title) return false;
+    
+    // Category filter
+    if (selectedCategory) {
+      const categories = Array.isArray(r.category) ? r.category : [r.category];
+      if (!categories.some(cat => cat && cat.toLowerCase() === selectedCategory.toLowerCase())) {
+        return false;
+      }
+    }
+    
+    // Search text filter
     const q = search.toLowerCase().trim();
     if (!q) return true;
     
@@ -207,6 +218,52 @@ function App() {
               Submit a Recipe
             </a>
           </div>
+        </div>
+
+        {/* Category filters */}
+        <div className="category-filters">
+          <button 
+            className={`category-btn ${selectedCategory === "" ? "active" : ""}`}
+            onClick={() => setSelectedCategory("")}
+          >
+            All Recipes
+          </button>
+          <button 
+            className={`category-btn ${selectedCategory === "Telugu" ? "active" : ""}`}
+            onClick={() => setSelectedCategory("Telugu")}
+          >
+            Telugu
+          </button>
+          <button 
+            className={`category-btn ${selectedCategory === "South Indian" ? "active" : ""}`}
+            onClick={() => setSelectedCategory("South Indian")}
+          >
+            South Indian
+          </button>
+          <button 
+            className={`category-btn ${selectedCategory === "Kerala" ? "active" : ""}`}
+            onClick={() => setSelectedCategory("Kerala")}
+          >
+            Kerala
+          </button>
+          <button 
+            className={`category-btn ${selectedCategory === "Kannada" ? "active" : ""}`}
+            onClick={() => setSelectedCategory("Kannada")}
+          >
+            Kannada
+          </button>
+          <button 
+            className={`category-btn ${selectedCategory === "Dessert" ? "active" : ""}`}
+            onClick={() => setSelectedCategory("Dessert")}
+          >
+            Desserts
+          </button>
+          <button 
+            className={`category-btn ${selectedCategory === "North Indian" ? "active" : ""}`}
+            onClick={() => setSelectedCategory("North Indian")}
+          >
+            North Indian
+          </button>
         </div>
 
         {/* Search bar */}
