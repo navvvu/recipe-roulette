@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Hyderabadi Chicken Biryani",
-    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Indian+Food",
     "time": "60 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -33,7 +33,7 @@
   {
     "id": 2,
     "title": "Pesarattu (Green Gram Dosa)",
-    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=South+Indian",
     "time": "25 min",
     "servings": 3,
     "difficulty": "Easy",
@@ -61,7 +61,7 @@
   {
     "id": 3,
     "title": "Gongura Pachadi (Sorrel Leaves Chutney)",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Telugu+Cuisine",
     "time": "20 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -94,7 +94,7 @@
   {
     "id": 4,
     "title": "Andhra Chicken Curry",
-    "image": "https://images.unsplash.com/photo-1544966503-7cc4ac81b4d1?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Andhra+Spices",
     "time": "45 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -130,7 +130,7 @@
   {
     "id": 5,
     "title": "Rava Dosa (Semolina Crepes)",
-    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Rava+Dosa",
     "time": "30 min",
     "servings": 3,
     "difficulty": "Easy",
@@ -166,7 +166,7 @@
   {
     "id": 6,
     "title": "Pulihora (Tamarind Rice)",
-    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Pulihora",
     "time": "25 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -201,7 +201,7 @@
   {
     "id": 7,
     "title": "Coconut Chutney",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Coconut+Chutney",
     "time": "10 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -234,7 +234,7 @@
   {
     "id": 8,
     "title": "Bisi Bele Bath (Spicy Rice & Lentils)",
-    "image": "https://images.unsplash.com/photo-1544966503-7cc4ac81b4d1?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Bisi+Bele+Bath",
     "time": "50 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -270,7 +270,7 @@
   {
     "id": 9,
     "title": "Masala Dosa",
-    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Masala+Dosa",
     "time": "40 min",
     "servings": 3,
     "difficulty": "Medium",
@@ -299,7 +299,7 @@
   {
     "id": 10,
     "title": "Gutti Vankaya (Stuffed Brinjal Curry)",
-    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Gutti+Vankaya",
     "time": "35 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -335,7 +335,7 @@
   {
     "id": 11,
     "title": "Rasam (South Indian Hotel Style)",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Rasam",
     "time": "20 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -367,7 +367,7 @@
   {
     "id": 12,
     "title": "Sambar Recipe (How to Make Sambar)",
-    "image": "https://images.unsplash.com/photo-1544966503-7cc4ac81b4d1?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Sambar",
     "time": "35 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -399,7 +399,7 @@
   {
     "id": 13,
     "title": "Medu Vada Recipe (Garelu)",
-    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Medu+Vada",
     "time": "30 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -432,7 +432,7 @@
   {
     "id": 14,
     "title": "Idli Recipe (Idli Batter Recipe with Pro Tips)",
-    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Idli",
     "time": "45 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -462,7 +462,7 @@
   {
     "id": 15,
     "title": "Ven Pongal Recipe (Khara Pongal)",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Ven+Pongal",
     "time": "25 min",
     "servings": 3,
     "difficulty": "Easy",
@@ -497,7 +497,7 @@
   {
     "id": 16,
     "title": "Tomato Rice Recipe (Indian Style)",
-    "image": "https://images.unsplash.com/photo-1544966503-7cc4ac81b4d1?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Tomato+Rice",
     "time": "30 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -533,7 +533,7 @@
   {
     "id": 17,
     "title": "Coconut Rice Recipe",
-    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Coconut+Rice",
     "time": "20 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -567,7 +567,7 @@
   {
     "id": 18,
     "title": "Murukku Recipe (Murukulu)",
-    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Murukku",
     "time": "40 min",
     "servings": 6,
     "difficulty": "Medium",
@@ -600,7 +600,7 @@
   {
     "id": 19,
     "title": "Tomato Pappu Recipe (Andhra Tomato Dal)",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Tomato+Pappu",
     "time": "25 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -633,7 +633,7 @@
   {
     "id": 20,
     "title": "Pudina Chutney Recipe (Mint Chutney)",
-    "image": "https://images.unsplash.com/photo-1544966503-7cc4ac81b4d1?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Pudina+Chutney",
     "time": "15 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -667,7 +667,7 @@
   {
     "id": 21,
     "title": "Soft Cinnamon Rolls",
-    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Cinnamon+Rolls",
     "time": "2 hours",
     "servings": 12,
     "difficulty": "Medium",
@@ -702,7 +702,7 @@
   {
     "id": 22,
     "title": "Tea Cake",
-    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Tea+Cake",
     "time": "1 hour",
     "servings": 8,
     "difficulty": "Easy",
@@ -735,7 +735,7 @@
   {
     "id": 23,
     "title": "Semolina Bread Loaf",
-    "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Semolina+Bread",
     "time": "3 hours",
     "servings": 10,
     "difficulty": "Medium",
@@ -770,7 +770,7 @@
   {
     "id": 24,
     "title": "Kuttanadan Duck Roast",
-    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Duck+Roast",
     "time": "2 hours",
     "servings": 6,
     "difficulty": "Medium",
@@ -807,7 +807,7 @@
   {
     "id": 25,
     "title": "Kerala Fish Curry",
-    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Kerala+Fish+Curry",
     "time": "45 min",
     "servings": 4,
     "difficulty": "Medium",
@@ -844,7 +844,7 @@
   {
     "id": 26,
     "title": "Malabar Parotta",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Malabar+Parotta",
     "time": "1 hour",
     "servings": 6,
     "difficulty": "Medium",
@@ -876,7 +876,7 @@
   {
     "id": 27,
     "title": "Kerala Prawns Curry",
-    "image": "https://images.unsplash.com/photo-1544966503-7cc4ac81b4d1?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Prawns+Curry",
     "time": "30 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -911,7 +911,7 @@
   {
     "id": 28,
     "title": "Kerala Chicken Stew",
-    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Chicken+Stew",
     "time": "40 min",
     "servings": 4,
     "difficulty": "Easy",
@@ -948,7 +948,7 @@
   {
     "id": 29,
     "title": "Kerala Appam",
-    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Kerala+Appam",
     "time": "8 hours",
     "servings": 6,
     "difficulty": "Medium",
@@ -980,7 +980,7 @@
   {
     "id": 30,
     "title": "పెసరట్టు (Pesarattu)",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&q=80",
+    "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Pesarattu",
     "time": "25 min",
     "servings": 3,
     "difficulty": "Easy",

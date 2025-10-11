@@ -100,7 +100,7 @@ function App() {
         <div className="header-row container">
           <div className="brand">
             <div className="logo-container">
-              <div className="cooking-pot-logo"></div>
+              <img src="./image.png" alt="Cooking Pot Logo" className="logo-image" />
             </div>
             <div className="brand-text">
               <h1 className="title">food for thought</h1>
@@ -112,7 +112,7 @@ function App() {
 
           <div className="buttons">
             <div className="logo-container right-logo">
-              <div className="cooking-pot-logo"></div>
+              <img src="./image.png" alt="Cooking Pot Logo" className="logo-image" />
             </div>
             <a
               className="button ghost"

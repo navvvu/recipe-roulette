@@ -11,7 +11,7 @@
   --accent: #EDC9A9;
 
   --title: 'BBH Sans Bogle', sans-serif;
-  --tagline: 'Playwrite DE SAS', cursive;
+  --tagline: 'Imperial Script', cursive;
   --recipe-title: 'Trade Winds', cursive;
   --recipe-ingredients: 'Irish Grover', cursive;
   --recipe-stats: 'Marhey', cursive;
@@ -68,52 +68,25 @@ html, body {
 
 .logo-container {
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .right-logo {
   margin-right: 8px;
 }
 
-.cooking-pot-logo {
+.logo-image {
   width: 40px;
   height: 40px;
-  background: #D98663;
-  border-radius: 50%;
-  position: relative;
+  object-fit: contain;
   filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
   transition: transform 0.2s ease;
 }
 
-.cooking-pot-logo:hover {
+.logo-image:hover {
   transform: scale(1.05);
-}
-
-/* Pot Body */
-.cooking-pot-logo::before {
-  content: '';
-  position: absolute;
-  width: 30px;
-  height: 20px;
-  background: #D98663;
-  border-radius: 15px 15px 8px 8px;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  border: 2px solid #2E2E2E;
-}
-
-/* Pot Lid */
-.cooking-pot-logo::after {
-  content: '';
-  position: absolute;
-  width: 26px;
-  height: 8px;
-  background: #D98663;
-  border-radius: 13px 13px 4px 4px;
-  bottom: 18px;
-  left: 50%;
-  transform: translateX(-50%);
-  border: 2px solid #2E2E2E;
 }
 
 .brand-text {
