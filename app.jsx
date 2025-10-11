@@ -88,7 +88,7 @@ function App() {
 
         <div className="detail" style={{ marginTop: 16 }}>
           <img
-            src={selected.image}
+            src={selected.id === 1 ? './images/hyderabadibiryani.jpg' : selected.id === 4 ? './images/andhrachickencurry.jpg' : selected.image}
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
           />
@@ -187,7 +187,7 @@ function App() {
         {filtered.map((r) => (
           <div className="card" key={r.id} onClick={() => setSelected(r)}>
             <img 
-              src={r.image} 
+              src={r.id === 1 ? './images/hyderabadibiryani.jpg' : r.id === 4 ? './images/andhrachickencurry.jpg' : r.image} 
               alt={r.title}
               loading="lazy"
             />
