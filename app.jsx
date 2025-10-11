@@ -49,7 +49,9 @@ function App() {
 
   // 2) Filter by title or category text
   const filtered = recipes.filter((r) => {
-    const q = search.toLowerCase();
+    if (!r || !r.title) return false;
+    const q = search.toLowerCase().trim();
+    if (!q) return true;
     const cat = Array.isArray(r.category) ? r.category.join(", ") : (r.category || "");
     return r.title.toLowerCase().includes(q) || cat.toLowerCase().includes(q);
   });
