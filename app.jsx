@@ -11,6 +11,7 @@ function App() {
   const getImageUrl = (recipe) => {
     const imageMap = {
       1: './images/hyderabadibiryani.jpg',
+      3: './images/GonguraPachadi.jpg',
       4: './images/andhrachickencurry.jpg',
       9: './images/masaladosa.jpg',
       10: './images/GuttiVankaya.jpg',
