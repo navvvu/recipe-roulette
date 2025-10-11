@@ -1,0 +1,319 @@
+[
+  {
+    "id": 31,
+    "title": "Gulab Jamun",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Gulab+Jamun",
+    "time": "45 min",
+    "servings": 6,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["Dessert", "Other"],
+    "ingredients": [
+      "1 cup milk powder",
+      "1/4 cup all-purpose flour",
+      "1/4 tsp baking soda",
+      "2 tbsp ghee",
+      "1/4 cup milk",
+      "Oil for deep frying",
+      "For syrup: 1 cup sugar, 1 cup water, 4-5 cardamom pods, few saffron strands"
+    ],
+    "instructions": [
+      "Mix milk powder, flour, and baking soda in a bowl.",
+      "Add ghee and mix well, then add milk gradually to make soft dough.",
+      "Make small balls and keep aside.",
+      "Make sugar syrup with water, cardamom, and saffron.",
+      "Heat oil and deep fry the balls until golden brown.",
+      "Soak fried balls in warm syrup for 30 minutes.",
+      "Serve warm or cold."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Indian Dessert Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 32,
+    "title": "Rasgulla",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Rasgulla",
+    "time": "60 min",
+    "servings": 8,
+    "difficulty": "Hard",
+    "rating": 4.8,
+    "category": ["Dessert", "Other"],
+    "ingredients": [
+      "1 liter full-fat milk",
+      "2 tbsp lemon juice",
+      "1/2 cup sugar",
+      "2 cups water",
+      "1 tsp cardamom powder",
+      "Few saffron strands"
+    ],
+    "instructions": [
+      "Boil milk and add lemon juice to curdle it.",
+      "Strain the whey and wash the paneer with cold water.",
+      "Knead paneer until smooth, make small balls.",
+      "Make sugar syrup with water and cardamom.",
+      "Boil the balls in syrup for 15-20 minutes.",
+      "Add saffron and let it cool.",
+      "Serve chilled."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Bengali Sweet Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 33,
+    "title": "Kheer (Rice Pudding)",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Kheer",
+    "time": "40 min",
+    "servings": 6,
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "category": ["Dessert", "Other"],
+    "ingredients": [
+      "1/2 cup basmati rice",
+      "1 liter full-fat milk",
+      "1/2 cup sugar",
+      "2 tbsp chopped nuts (almonds, cashews, pistachios)",
+      "1 tsp cardamom powder",
+      "Few saffron strands",
+      "2 tbsp raisins"
+    ],
+    "instructions": [
+      "Wash rice and soak for 30 minutes.",
+      "Boil milk in a heavy-bottomed pan.",
+      "Add rice and cook on low heat, stirring frequently.",
+      "Cook until rice is soft and milk thickens.",
+      "Add sugar, nuts, cardamom, and saffron.",
+      "Cook for 5 more minutes, add raisins.",
+      "Serve warm or chilled."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Traditional Indian Desserts",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 34,
+    "title": "Halwa (Carrot Halwa)",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Carrot+Halwa",
+    "time": "50 min",
+    "servings": 6,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Dessert", "Other"],
+    "ingredients": [
+      "1 kg carrots (grated)",
+      "1 liter full-fat milk",
+      "1/2 cup sugar",
+      "1/4 cup ghee",
+      "2 tbsp chopped nuts",
+      "1 tsp cardamom powder",
+      "Few saffron strands"
+    ],
+    "instructions": [
+      "Grate carrots finely.",
+      "Heat ghee in a pan, add grated carrots.",
+      "Cook carrots until moisture evaporates.",
+      "Add milk and cook on low heat, stirring frequently.",
+      "Cook until milk reduces and carrots are soft.",
+      "Add sugar, nuts, cardamom, and saffron.",
+      "Cook until halwa thickens and ghee separates."
+    ],
+    "credit": {
+      "display": "Cooking Credits: North Indian Dessert Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 35,
+    "title": "Jalebi",
+    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Jalebi",
+    "time": "35 min",
+    "servings": 8,
+    "difficulty": "Hard",
+    "rating": 4.9,
+    "category": ["Dessert", "Other"],
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1/4 cup cornflour",
+      "1/4 tsp baking soda",
+      "1/2 cup yogurt",
+      "Water as needed",
+      "Oil for deep frying",
+      "For syrup: 1 cup sugar, 1/2 cup water, 1 tsp lemon juice, saffron strands"
+    ],
+    "instructions": [
+      "Mix flour, cornflour, and baking soda.",
+      "Add yogurt and water to make smooth batter.",
+      "Let batter rest for 30 minutes.",
+      "Make sugar syrup with water, lemon juice, and saffron.",
+      "Heat oil, pour batter in circular motion to make jalebi shapes.",
+      "Fry until golden and crispy.",
+      "Soak in warm syrup for 2-3 minutes, serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Indian Street Food Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 36,
+    "title": "Payasam (Kerala Style)",
+    "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Payasam",
+    "time": "30 min",
+    "servings": 6,
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "category": ["Dessert", "Kerala"],
+    "ingredients": [
+      "1/2 cup vermicelli",
+      "1 liter coconut milk",
+      "1/2 cup jaggery",
+      "2 tbsp ghee",
+      "2 tbsp chopped nuts",
+      "1 tsp cardamom powder",
+      "Few cashews and raisins"
+    ],
+    "instructions": [
+      "Heat ghee, roast vermicelli until golden.",
+      "Add coconut milk and cook until vermicelli is soft.",
+      "Add jaggery and stir until dissolved.",
+      "Add nuts, cardamom, cashews, and raisins.",
+      "Cook for 5 more minutes.",
+      "Serve warm or chilled."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Kerala Dessert Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 37,
+    "title": "Badam Halwa (Almond Halwa)",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Badam+Halwa",
+    "time": "45 min",
+    "servings": 6,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["Dessert", "Other"],
+    "ingredients": [
+      "1 cup almonds (soaked overnight)",
+      "1/2 cup sugar",
+      "1/4 cup ghee",
+      "1/2 cup milk",
+      "1 tsp cardamom powder",
+      "Few saffron strands",
+      "2 tbsp chopped pistachios"
+    ],
+    "instructions": [
+      "Peel soaked almonds and grind to smooth paste.",
+      "Heat ghee in a pan, add almond paste.",
+      "Cook on low heat, stirring continuously.",
+      "Add milk gradually and cook until thick.",
+      "Add sugar, cardamom, and saffron.",
+      "Cook until halwa thickens and ghee separates.",
+      "Garnish with pistachios and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Royal Indian Desserts",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 38,
+    "title": "Ladoo (Besan Ladoo)",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Besan+Ladoo",
+    "time": "25 min",
+    "servings": "12 pieces",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "category": ["Dessert", "Other"],
+    "ingredients": [
+      "2 cups besan (gram flour)",
+      "1 cup powdered sugar",
+      "1/2 cup ghee",
+      "2 tbsp chopped nuts",
+      "1 tsp cardamom powder",
+      "Few raisins"
+    ],
+    "instructions": [
+      "Heat ghee in a pan, add besan.",
+      "Roast besan on low heat until golden and fragrant.",
+      "Let it cool completely.",
+      "Add powdered sugar, nuts, cardamom, and raisins.",
+      "Mix well and shape into round ladoos.",
+      "Store in airtight container.",
+      "Serve as needed."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Indian Festival Sweets",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 39,
+    "title": "Ras Malai",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Ras+Malai",
+    "time": "60 min",
+    "servings": 8,
+    "difficulty": "Hard",
+    "rating": 4.9,
+    "category": ["Dessert", "Other"],
+    "ingredients": [
+      "1 liter full-fat milk",
+      "2 tbsp lemon juice",
+      "1/2 cup sugar",
+      "2 cups water",
+      "1 tsp cardamom powder",
+      "Few saffron strands",
+      "2 tbsp chopped pistachios"
+    ],
+    "instructions": [
+      "Boil milk and add lemon juice to curdle it.",
+      "Strain whey and wash paneer with cold water.",
+      "Knead paneer until smooth, make flat discs.",
+      "Make sugar syrup with water and cardamom.",
+      "Boil paneer discs in syrup for 15 minutes.",
+      "Add saffron to remaining syrup.",
+      "Arrange discs in serving dish, pour syrup, garnish with pistachios."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Bengali Sweet Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 40,
+    "title": "Kulfi (Indian Ice Cream)",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Kulfi",
+    "time": "4 hours",
+    "servings": 8,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Dessert", "Other"],
+    "ingredients": [
+      "1 liter full-fat milk",
+      "1/2 cup condensed milk",
+      "1/4 cup sugar",
+      "2 tbsp chopped nuts",
+      "1 tsp cardamom powder",
+      "Few saffron strands",
+      "2 tbsp rose water"
+    ],
+    "instructions": [
+      "Boil milk in a heavy-bottomed pan.",
+      "Add condensed milk and sugar.",
+      "Cook on low heat, stirring frequently until thick.",
+      "Add nuts, cardamom, saffron, and rose water.",
+      "Let it cool completely.",
+      "Pour into kulfi molds or small containers.",
+      "Freeze for 4-6 hours. Serve frozen."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Indian Frozen Dessert Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  }
+]

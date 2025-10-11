@@ -1,0 +1,348 @@
+[
+  {
+    "id": 41,
+    "title": "Chicken Tikka Masala",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Chicken+Tikka+Masala",
+    "time": "50 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["Non-Veg", "Other"],
+    "ingredients": [
+      "500g chicken pieces",
+      "1 cup yogurt",
+      "2 tbsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp garam masala",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "1/2 cup cream",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, ginger-garlic paste, and half the spices.",
+      "Let it marinate for 30 minutes.",
+      "Heat oil, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add remaining spices and cook until oil separates.",
+      "Add marinated chicken and cook until tender.",
+      "Add cream and simmer for 5 minutes. Serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: North Indian Curry Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 42,
+    "title": "Dal Makhani",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Dal+Makhani",
+    "time": "60 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Vegetarian", "Other"],
+    "ingredients": [
+      "1 cup black urad dal",
+      "1/4 cup rajma (kidney beans)",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp butter",
+      "1 tsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "1/2 cup cream",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Soak dals overnight, pressure cook until soft.",
+      "Heat butter, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add ginger-garlic paste and spices.",
+      "Add cooked dals and mix well.",
+      "Simmer for 30 minutes, add cream.",
+      "Serve hot with rice or naan."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Punjabi Dal Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 43,
+    "title": "Palak Paneer",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Palak+Paneer",
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "category": ["Vegetarian", "Other"],
+    "ingredients": [
+      "250g paneer (cubed)",
+      "2 cups spinach leaves",
+      "1 onion (chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp oil",
+      "1 tsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "2 tbsp cream"
+    ],
+    "instructions": [
+      "Blanch spinach leaves and grind to paste.",
+      "Heat oil, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add ginger-garlic paste and spices.",
+      "Add spinach paste and cook for 5 minutes.",
+      "Add paneer cubes and cream.",
+      "Simmer for 5 minutes and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: North Indian Vegetarian Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Butter Chicken",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Butter+Chicken",
+    "time": "45 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["Non-Veg", "Other"],
+    "ingredients": [
+      "500g chicken pieces",
+      "1 cup yogurt",
+      "2 tbsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp garam masala",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "1/2 cup butter",
+      "1/2 cup cream",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, ginger-garlic paste, and spices.",
+      "Let it marinate for 30 minutes.",
+      "Heat butter, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add marinated chicken and cook until tender.",
+      "Add cream and simmer for 5 minutes.",
+      "Serve hot with naan or rice."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Punjabi Chicken Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Chole Bhature",
+    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Chole+Bhature",
+    "time": "90 min",
+    "servings": 4,
+    "difficulty": "Hard",
+    "rating": 4.8,
+    "category": ["Vegetarian", "Breakfast"],
+    "ingredients": [
+      "2 cups chickpeas (soaked overnight)",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp oil",
+      "1 tsp ginger-garlic paste",
+      "2 tsp chole masala",
+      "1 tsp red chili powder",
+      "Salt to taste",
+      "For bhature: 2 cups maida, 1/2 cup yogurt, 1 tsp sugar, salt, oil for frying"
+    ],
+    "instructions": [
+      "Pressure cook chickpeas until soft.",
+      "Heat oil, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add ginger-garlic paste and spices.",
+      "Add cooked chickpeas and simmer for 20 minutes.",
+      "For bhature: Mix maida, yogurt, sugar, salt, and water.",
+      "Make soft dough, roll and deep fry until puffed."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Punjabi Breakfast Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Rajma Chawal",
+    "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Rajma+Chawal",
+    "time": "60 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "category": ["Vegetarian", "Other"],
+    "ingredients": [
+      "2 cups rajma (kidney beans)",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp oil",
+      "1 tsp ginger-garlic paste",
+      "2 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "Cooked rice for serving"
+    ],
+    "instructions": [
+      "Soak rajma overnight, pressure cook until soft.",
+      "Heat oil, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add ginger-garlic paste and spices.",
+      "Add cooked rajma and simmer for 20 minutes.",
+      "Serve hot with steamed rice."
+    ],
+    "credit": {
+      "display": "Cooking Credits: North Indian Comfort Food",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 47,
+    "title": "Aloo Gobi",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Aloo+Gobi",
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "category": ["Vegetarian", "Other"],
+    "ingredients": [
+      "2 potatoes (cubed)",
+      "1 small cauliflower (florets)",
+      "1 onion (chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp oil",
+      "1 tsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add ginger-garlic paste and spices.",
+      "Add potatoes and cook for 5 minutes.",
+      "Add cauliflower and cook until tender.",
+      "Garnish with coriander leaves and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: North Indian Vegetable Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Fish Curry (Goan Style)",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Goan+Fish+Curry",
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Non-Veg", "Other"],
+    "ingredients": [
+      "500g fish pieces",
+      "1/2 cup coconut milk",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp coconut oil",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp coriander powder",
+      "Curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt for 15 minutes.",
+      "Heat coconut oil, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add spice powders and cook until oil separates.",
+      "Add coconut milk and bring to gentle boil.",
+      "Add fish pieces and cook until fish is tender.",
+      "Garnish with curry leaves and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Goan Coastal Kitchen",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 49,
+    "title": "Pav Bhaji",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Pav+Bhaji",
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Vegetarian", "Other"],
+    "ingredients": [
+      "2 potatoes (boiled and mashed)",
+      "1 cup mixed vegetables (cauliflower, peas, carrots)",
+      "1 onion (chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp butter",
+      "1 tsp ginger-garlic paste",
+      "2 tsp pav bhaji masala",
+      "1 tsp red chili powder",
+      "Salt to taste",
+      "Pav bread for serving"
+    ],
+    "instructions": [
+      "Boil and mash potatoes and mixed vegetables.",
+      "Heat butter, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add ginger-garlic paste and spices.",
+      "Add mashed vegetables and cook for 10 minutes.",
+      "Serve hot with buttered pav bread."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Mumbai Street Food Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 50,
+    "title": "Chicken Curry (North Indian Style)",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=North+Indian+Chicken+Curry",
+    "time": "45 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Non-Veg", "Other"],
+    "ingredients": [
+      "500g chicken pieces",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp oil",
+      "1 tsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate chicken with turmeric and salt for 30 minutes.",
+      "Heat oil, add onions and sauté until golden brown.",
+      "Add tomatoes and cook until mushy.",
+      "Add ginger-garlic paste and spices.",
+      "Add marinated chicken and cook until tender.",
+      "Garnish with coriander leaves and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: North Indian Curry Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  }
+]

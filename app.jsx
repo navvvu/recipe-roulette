@@ -17,7 +17,9 @@ function App() {
           "./recipes-telugu.json", 
           "./recipes-south-indian.json",
           "./recipes-kerala.json",
-          "./recipes-kannada.json"
+          "./recipes-kannada.json",
+          "./recipes-desserts.json",
+          "./recipes-north-indian.json"
         ];
         
         const allRecipes = [];
@@ -64,7 +66,7 @@ function App() {
 
         <div className="detail" style={{ marginTop: 16 }}>
           <img
-            src={`./images/${selected.id}.jpg`}
+            src={selected.id === 1 ? './images/biryani.jpg' : `./images/${selected.id}.jpg`}
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
             onError={(e) => { 
@@ -176,7 +178,7 @@ function App() {
         {filtered.map((r) => (
           <div className="card" key={r.id} onClick={() => setSelected(r)}>
             <img 
-              src={`./images/${r.id}.jpg`} 
+              src={r.id === 1 ? './images/biryani.jpg' : `./images/${r.id}.jpg`} 
               alt={r.title} 
               onError={(e) => { 
                 // Try different image formats
