@@ -25,8 +25,10 @@ function App() {
       52: './images/rasgulla.jpg',
       54: './images/carrothalwa.png',
       55: './images/jalebi.jpg',
+      60: './images/kulfi.jpg',
       63: './images/palakpaneer.jpg',
       65: './images/cholebhature.jpg',
+      67: './images/aloogobi.jpg',
       69: './images/pavbhaji.jpg'
     };
     const customImage = imageMap[recipe.id];
