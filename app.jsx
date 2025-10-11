@@ -218,6 +218,15 @@ function App() {
             value={search}
             onChange={(e) => setSearch(e.target.value)}
           />
+          {search && (
+            <button 
+              className="clear-search-btn"
+              onClick={() => setSearch("")}
+              title="Clear search"
+            >
+              ✕
+            </button>
+          )}
         </div>
       </header>
 
