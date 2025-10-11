@@ -70,15 +70,8 @@ function App() {
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
             onError={(e) => { 
-              // Try different image formats
-              if (e.target.src.includes('.jpg')) {
-                e.target.src = `./images/${selected.id}.png`;
-              } else if (e.target.src.includes('.png')) {
-                e.target.src = `./images/${selected.id}.jpeg`;
-              } else if (e.target.src.includes('.jpeg')) {
-                e.target.src = `./images/${selected.id}.webp`;
-              } else {
-                // Fallback to placeholder
+              // Simple fallback to placeholder
+              if (!e.target.src.includes('placeholder')) {
                 e.target.src = selected.image;
               }
             }}
@@ -137,7 +130,7 @@ function App() {
         <div className="header-row container">
           <div className="brand">
             <div className="logo-container">
-              <img src="./image.png" alt="Cooking Pot Logo" className="logo-image" />
+              <img src="./images/image.jpg" alt="Cooking Pot Logo" className="logo-image" />
             </div>
             <div className="brand-text">
               <h1 className="title">food for thought</h1>
@@ -149,7 +142,7 @@ function App() {
 
           <div className="buttons">
             <div className="logo-container right-logo">
-              <img src="./image.png" alt="Cooking Pot Logo" className="logo-image" />
+              <img src="./images/image.jpg" alt="Cooking Pot Logo" className="logo-image" />
             </div>
             <a
               className="button ghost"
@@ -181,15 +174,8 @@ function App() {
               src={r.id === 1 ? './images/biryani.jpg' : `./images/${r.id}.jpg`} 
               alt={r.title} 
               onError={(e) => { 
-                // Try different image formats
-                if (e.target.src.includes('.jpg')) {
-                  e.target.src = `./images/${r.id}.png`;
-                } else if (e.target.src.includes('.png')) {
-                  e.target.src = `./images/${r.id}.jpeg`;
-                } else if (e.target.src.includes('.jpeg')) {
-                  e.target.src = `./images/${r.id}.webp`;
-                } else {
-                  // Fallback to placeholder
+                // Simple fallback to placeholder
+                if (!e.target.src.includes('placeholder')) {
                   e.target.src = r.image;
                 }
               }} 

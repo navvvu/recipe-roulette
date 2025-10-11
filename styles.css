@@ -11,12 +11,11 @@
   --accent: #EDC9A9;
 
   --title: 'BBH Sans Bogle', sans-serif;
-  --tagline: 'Imperial Script', cursive;
+  --tagline: 'Bilbo Swash Caps', cursive;
   --recipe-title: 'Trade Winds', cursive;
-  --recipe-ingredients: 'Irish Grover', cursive;
-  --recipe-stats: 'Marhey', cursive;
+  --recipe-ingredients: 'Figtree', sans-serif;
+  --recipe-stats: 'Figtree', sans-serif;
   --telugu-script: 'Akaya Telivigala', cursive;
-  --recipe: 'Lora', serif;
   --body: 'Figtree', sans-serif;
 }
 
@@ -89,6 +88,42 @@ html, body {
   transform: scale(1.05);
 }
 
+/* Cooking Pot Logo */
+.cooking-pot-logo {
+  width: 40px;
+  height: 40px;
+  background: var(--terracotta);
+  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  position: relative;
+  box-shadow: 0 2px 8px rgba(217, 134, 99, 0.3);
+}
+
+.cooking-pot-logo::before {
+  content: '';
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 20px;
+  height: 8px;
+  background: var(--terracotta);
+  border-radius: 10px 10px 0 0;
+  border: 2px solid var(--clay);
+  border-bottom: none;
+}
+
+.cooking-pot-logo::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 8px;
+  height: 8px;
+  background: var(--clay);
+  border-radius: 50%;
+}
+
 .brand-text {
   display: flex;
   flex-direction: column;
@@ -105,11 +140,12 @@ html, body {
 
 .tagline {
   font-family: var(--tagline);
-  font-size: 16px;
+  font-size: 24px;
   color: var(--sage);
   margin-top: 4px;
   font-style: italic;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
+  line-height: 1.2;
 }
 
 /* ---------- BUTTONS ---------- */
@@ -303,10 +339,11 @@ textarea {
 
 .detail-body ul li {
   font-family: var(--recipe-ingredients);
-  font-size: 18px;
-  margin-bottom: 8px;
+  font-size: 20px;
+  margin-bottom: 10px;
   padding-left: 20px;
   position: relative;
+  line-height: 1.4;
 }
 
 .detail-body ul li:before {
@@ -319,19 +356,21 @@ textarea {
 
 .detail-body ol li {
   font-family: var(--recipe-ingredients);
-  font-size: 18px;
-  margin-bottom: 8px;
+  font-size: 20px;
+  margin-bottom: 10px;
   padding-left: 20px;
+  line-height: 1.4;
 }
 
 .recipe-stats {
   font-family: var(--recipe-stats);
-  font-size: 14px;
+  font-size: 18px;
   color: var(--sage);
   margin: 12px 0;
   display: flex;
   gap: 16px;
   align-items: center;
+  line-height: 1.3;
 }
 
 /* ---------- FOOTER ---------- */
