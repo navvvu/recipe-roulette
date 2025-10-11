@@ -88,7 +88,7 @@ function App() {
 
         <div className="detail" style={{ marginTop: 16 }}>
           <img
-            src={selected.id === 1 ? './images/hyderabadibiryani.jpg' : selected.id === 4 ? './images/andhrachickencurry.jpg' : selected.image}
+            src={selected.id === 1 ? './images/hyderabadibiryani.jpg' : selected.id === 4 ? './images/andhrachickencurry.jpg' : selected.id === 9 ? './images/masaladosa.jpg' : selected.image}
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
             onError={(e) => {
@@ -191,7 +191,7 @@ function App() {
         {filtered.map((r) => (
           <div className="card" key={r.id} onClick={() => setSelected(r)}>
             <img 
-              src={r.id === 1 ? './images/hyderabadibiryani.jpg' : r.id === 4 ? './images/andhrachickencurry.jpg' : r.image} 
+              src={r.id === 1 ? './images/hyderabadibiryani.jpg' : r.id === 4 ? './images/andhrachickencurry.jpg' : r.id === 9 ? './images/masaladosa.jpg' : r.image} 
               alt={r.title}
               loading="lazy"
               onError={(e) => {
