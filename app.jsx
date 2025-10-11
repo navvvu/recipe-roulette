@@ -91,6 +91,10 @@ function App() {
             src={selected.id === 1 ? './images/hyderabadibiryani.jpg' : selected.id === 4 ? './images/andhrachickencurry.jpg' : selected.image}
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
+            onError={(e) => {
+              console.log('Detail image failed to load:', e.target.src);
+              e.target.src = selected.image;
+            }}
           />
           <div className="detail-body">
             <h1 
@@ -190,6 +194,10 @@ function App() {
               src={r.id === 1 ? './images/hyderabadibiryani.jpg' : r.id === 4 ? './images/andhrachickencurry.jpg' : r.image} 
               alt={r.title}
               loading="lazy"
+              onError={(e) => {
+                console.log('Image failed to load:', e.target.src);
+                e.target.src = r.image;
+              }}
             />
             <div className="card-body">
               <h3>{r.title}</h3>
