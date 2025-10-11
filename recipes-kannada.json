@@ -1,0 +1,165 @@
+[
+  {
+    "id": 26,
+    "title": "Vangibath (Karnataka Style Eggplant Rice)",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Vangibath",
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.9,
+    "category": ["Kannada", "Vegetarian"],
+    "ingredients": [
+      "2 cups cooked rice",
+      "2 medium brinjals (chopped)",
+      "2 tbsp vangibath powder",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 tsp chana dal",
+      "2 dried red chilies",
+      "Curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add mustard seeds and let them splutter.",
+      "Add urad dal, chana dal, and dried red chilies.",
+      "Sauté until dals turn golden brown.",
+      "Add curry leaves and chopped brinjals.",
+      "Cook brinjals until tender, add vangibath powder and salt.",
+      "Add cooked rice and mix gently until well combined.",
+      "Cook for 2-3 minutes on low heat. Serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Karnataka Rice Specialists",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Bisi Bele Bath (Karnataka Style)",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Bisi+Bele+Bath",
+    "time": "50 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Kannada", "Vegetarian"],
+    "ingredients": [
+      "1 cup rice",
+      "1/2 cup toor dal",
+      "1/4 cup mixed vegetables",
+      "2 tbsp bisi bele bath powder",
+      "1/2 cup tamarind pulp",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp cumin seeds",
+      "Curry leaves",
+      "Cashews and peanuts",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook rice and toor dal together until soft.",
+      "Heat oil, add mustard seeds, cumin seeds, and curry leaves.",
+      "Add cashews and peanuts, roast until golden.",
+      "Add vegetables and cook until tender.",
+      "Add bisi bele bath powder and tamarind pulp.",
+      "Add cooked rice-dal mixture and mix well.",
+      "Cook for 10-15 minutes on low heat. Serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Karnataka Kitchen Traditions",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 28,
+    "title": "Ragi Mudde (Finger Millet Balls)",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Ragi+Mudde",
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.7,
+    "category": ["Kannada", "Vegetarian"],
+    "ingredients": [
+      "2 cups ragi flour",
+      "4 cups water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Boil water in a large pot.",
+      "Gradually add ragi flour while stirring continuously.",
+      "Keep stirring to avoid lumps until thick consistency.",
+      "Cover and cook on low heat for 10 minutes.",
+      "Wet hands and shape into round balls.",
+      "Serve hot with sambar or curry."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Karnataka Traditional Kitchen",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Karnataka Style Chicken Curry",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Karnataka+Chicken+Curry",
+    "time": "45 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Kannada", "Non-Veg"],
+    "ingredients": [
+      "500g chicken pieces",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "2 tbsp oil",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "Curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate chicken with turmeric and salt for 30 minutes.",
+      "Heat oil, add onions and sauté until golden brown.",
+      "Add tomatoes and cook until mushy.",
+      "Add spice powders and cook until oil separates.",
+      "Add marinated chicken and cook covered until tender.",
+      "Garnish with curry leaves and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Karnataka Spice Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Karnataka Style Sambar",
+    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Karnataka+Sambar",
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["Kannada", "Vegetarian"],
+    "ingredients": [
+      "1/2 cup toor dal",
+      "1 cup mixed vegetables",
+      "1 tbsp tamarind pulp",
+      "2 tbsp sambar powder",
+      "1 tsp turmeric powder",
+      "Salt to taste",
+      "For tempering: oil, mustard seeds, fenugreek seeds, dried red chilies, curry leaves"
+    ],
+    "instructions": [
+      "Cook toor dal until soft and mash it well.",
+      "Cook mixed vegetables until tender.",
+      "Add tamarind pulp, sambar powder, turmeric, and salt.",
+      "Add mashed dal and mix well. Simmer for 10 minutes.",
+      "Heat oil for tempering, add all tempering ingredients.",
+      "Pour tempering over sambar and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Karnataka Traditional Kitchen",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  }
+]
