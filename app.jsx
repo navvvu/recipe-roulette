@@ -7,14 +7,36 @@ function App() {
   const [error, setError] = useState("");
   const [search, setSearch] = useState("");
 
-  // 1) Load recipes.json from the repo root
+  // 1) Load all recipe files from the repo root
   useEffect(() => {
     (async () => {
       try {
-        const res = await fetch("./recipes.json", { cache: "no-store" });
-        if (!res.ok) throw new Error("recipes.json not found");
-        const data = await res.json();
-        setRecipes(Array.isArray(data) ? data : []);
+        // Load all recipe files
+        const recipeFiles = [
+          "./recipes.json",
+          "./recipes-telugu.json", 
+          "./recipes-south-indian.json",
+          "./recipes-kerala.json",
+          "./recipes-kannada.json"
+        ];
+        
+        const allRecipes = [];
+        
+        for (const file of recipeFiles) {
+          try {
+            const res = await fetch(file, { cache: "no-store" });
+            if (res.ok) {
+              const data = await res.json();
+              if (Array.isArray(data)) {
+                allRecipes.push(...data);
+              }
+            }
+          } catch (e) {
+            console.log(`Could not load ${file}:`, e.message);
+          }
+        }
+        
+        setRecipes(allRecipes);
       } catch (e) {
         setError(e.message || "Failed to load recipes");
       } finally {
@@ -42,9 +64,22 @@ function App() {
 
         <div className="detail" style={{ marginTop: 16 }}>
           <img
-            src={selected.image}
+            src={`./images/${selected.id}.jpg`}
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
+            onError={(e) => { 
+              // Try different image formats
+              if (e.target.src.includes('.jpg')) {
+                e.target.src = `./images/${selected.id}.png`;
+              } else if (e.target.src.includes('.png')) {
+                e.target.src = `./images/${selected.id}.jpeg`;
+              } else if (e.target.src.includes('.jpeg')) {
+                e.target.src = `./images/${selected.id}.webp`;
+              } else {
+                // Fallback to placeholder
+                e.target.src = selected.image;
+              }
+            }}
           />
           <div className="detail-body">
             <h1 
@@ -140,7 +175,23 @@ function App() {
       <main className="grid container">
         {filtered.map((r) => (
           <div className="card" key={r.id} onClick={() => setSelected(r)}>
-            <img src={r.image} alt={r.title} />
+            <img 
+              src={`./images/${r.id}.jpg`} 
+              alt={r.title} 
+              onError={(e) => { 
+                // Try different image formats
+                if (e.target.src.includes('.jpg')) {
+                  e.target.src = `./images/${r.id}.png`;
+                } else if (e.target.src.includes('.png')) {
+                  e.target.src = `./images/${r.id}.jpeg`;
+                } else if (e.target.src.includes('.jpeg')) {
+                  e.target.src = `./images/${r.id}.webp`;
+                } else {
+                  // Fallback to placeholder
+                  e.target.src = r.image;
+                }
+              }} 
+            />
             <div className="card-body">
               <h3>{r.title}</h3>
               <p style={{ margin: "4px 0 6px" }}>

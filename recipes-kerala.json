@@ -1,0 +1,163 @@
+[
+  {
+    "id": 21,
+    "title": "Kerala Fish Curry",
+    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Kerala+Fish+Curry",
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Kerala", "Non-Veg"],
+    "ingredients": [
+      "500g fish pieces",
+      "1/2 cup coconut milk",
+      "2 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "2 tbsp coconut oil",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp coriander powder",
+      "Curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate fish with turmeric and salt for 15 minutes.",
+      "Heat coconut oil, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add spice powders and cook until oil separates.",
+      "Add coconut milk and bring to gentle boil.",
+      "Add fish pieces and cook until fish is tender.",
+      "Garnish with curry leaves and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Kerala Coastal Kitchen",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Appam (Kerala Rice Pancakes)",
+    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Appam",
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.7,
+    "category": ["Kerala", "Breakfast"],
+    "ingredients": [
+      "2 cups raw rice",
+      "1/2 cup cooked rice",
+      "1/2 cup coconut milk",
+      "1 tsp active dry yeast",
+      "1 tsp sugar",
+      "Salt to taste",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Soak raw rice for 4 hours, drain and grind with cooked rice.",
+      "Mix yeast with sugar and warm water, let it froth.",
+      "Add yeast mixture to rice batter, mix well.",
+      "Add coconut milk and salt, mix to smooth consistency.",
+      "Let batter ferment for 6-8 hours.",
+      "Heat appam pan, pour batter and swirl to spread evenly.",
+      "Cover and cook until edges are crispy and center is soft."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Kerala Breakfast Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 23,
+    "title": "Kerala Chicken Curry",
+    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Kerala+Chicken+Curry",
+    "time": "45 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "category": ["Kerala", "Non-Veg"],
+    "ingredients": [
+      "500g chicken pieces",
+      "1/2 cup coconut milk",
+      "2 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "2 tbsp coconut oil",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "Curry leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate chicken with turmeric, salt, and half the spice powders.",
+      "Heat coconut oil, add onions and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Add remaining spice powders and cook until oil separates.",
+      "Add marinated chicken and cook covered until tender.",
+      "Add coconut milk and simmer for 5 minutes.",
+      "Garnish with curry leaves and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Kerala Spice Masters",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 24,
+    "title": "Puttu (Steamed Rice Cakes)",
+    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Puttu",
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "category": ["Kerala", "Breakfast"],
+    "ingredients": [
+      "2 cups rice flour",
+      "1/2 cup grated coconut",
+      "Salt to taste",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Mix rice flour with salt and water to make crumbly mixture.",
+      "Layer grated coconut and rice flour mixture in puttu maker.",
+      "Steam for 10-12 minutes until cooked.",
+      "Serve hot with kadala curry or banana.",
+      "Can also serve with sugar and coconut."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Kerala Traditional Kitchen",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Kerala Sambar",
+    "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Kerala+Sambar",
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "category": ["Kerala", "Vegetarian"],
+    "ingredients": [
+      "1/2 cup toor dal",
+      "1 cup mixed vegetables",
+      "1 tbsp tamarind pulp",
+      "2 tbsp sambar powder",
+      "1 tsp turmeric powder",
+      "Salt to taste",
+      "For tempering: coconut oil, mustard seeds, fenugreek seeds, dried red chilies, curry leaves"
+    ],
+    "instructions": [
+      "Cook toor dal until soft and mash it well.",
+      "Cook mixed vegetables until tender.",
+      "Add tamarind pulp, sambar powder, turmeric, and salt.",
+      "Add mashed dal and mix well. Simmer for 10 minutes.",
+      "Heat coconut oil for tempering, add all tempering ingredients.",
+      "Pour tempering over sambar and serve hot."
+    ],
+    "credit": {
+      "display": "Cooking Credits: Kerala Traditional Kitchen",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
+    }
+  }
+]
