@@ -18,6 +18,7 @@ function App() {
       10: './images/GuttiVankaya.jpg',
       14: './images/idli.jpg',
       18: './images/Murukku.jpg',
+      23: './images/RoyyalaVepudu.jpg',
       25: './images/chepapulusu.jpg',
       31: './images/idli.jpg',
       46: './images/Vangibath.jpg',
