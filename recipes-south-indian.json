@@ -68,39 +68,6 @@
   },
   {
     "id": 33,
-    "title": "Idli Recipe",
-    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Idli",
-    "time": "45 min",
-    "servings": 4,
-    "difficulty": "Medium",
-    "rating": 4.8,
-    "category": [
-      "South Indian",
-      "Breakfast"
-    ],
-    "ingredients": [
-      "2 cups idli rice",
-      "1 cup urad dal",
-      "1/2 tsp fenugreek seeds",
-      "Salt to taste",
-      "Water as needed"
-    ],
-    "instructions": [
-      "Soak rice and urad dal separately for 6 hours.",
-      "Grind urad dal with fenugreek seeds to smooth paste.",
-      "Grind rice to coarse paste.",
-      "Mix both batters, add salt, and mix well.",
-      "Let batter ferment overnight (8-12 hours) in warm place.",
-      "Grease idli plates, pour batter, and steam for 10-12 minutes.",
-      "Serve hot with sambar and coconut chutney."
-    ],
-    "credit": {
-      "display": "Cooking Credits: South Indian Breakfast Masters",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
-    "id": 34,
     "title": "Coconut Chutney",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Coconut+Chutney",
     "time": "10 min",
@@ -136,7 +103,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "title": "Rasam Recipe",
     "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Rasam",
     "time": "20 min",
@@ -171,7 +138,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "title": "Bisi Bele Bath",
     "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Bisi+Bele+Bath",
     "time": "50 min",
@@ -210,7 +177,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "title": "Medu Vada",
     "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Medu+Vada",
     "time": "30 min",
@@ -246,7 +213,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "title": "Rava Dosa",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Rava+Dosa",
     "time": "30 min",
@@ -285,7 +252,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "title": "Tomato Rice",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Tomato+Rice",
     "time": "30 min",
@@ -324,7 +291,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "title": "Coconut Rice",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Coconut+Rice",
     "time": "20 min",
