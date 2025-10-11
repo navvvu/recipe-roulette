@@ -16,6 +16,7 @@ function App() {
       9: './images/masaladosa.jpg',
       10: './images/GuttiVankaya.jpg',
       14: './images/idli.jpg',
+      25: './images/chepapulusu.jpg',
       31: './images/idli.jpg',
       46: './images/Vangibath.jpg',
       49: './images/karnatakastylechickencurry.png',
