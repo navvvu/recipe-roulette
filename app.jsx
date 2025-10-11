@@ -98,7 +98,7 @@ function App() {
           />
           <div className="detail-body">
             <h1 
-              className={selected.title.includes('పె') ? 'telugu' : ''}
+              className={selected.title.match(/[\u0C00-\u0C7F]/) ? 'telugu' : ''}
               style={{ marginBottom: 8 }}
             >
               {selected.title}

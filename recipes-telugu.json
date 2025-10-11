@@ -66,194 +66,6 @@
   },
   {
     "id": 23,
-    "title": "Gongura Pachadi (Sorrel Leaves Chutney)",
-    "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Telugu+Cuisine",
-    "time": "20 min",
-    "servings": 4,
-    "difficulty": "Easy",
-    "rating": 4.8,
-    "category": [
-      "Telugu",
-      "Other"
-    ],
-    "ingredients": [
-      "2 cups gongura leaves (sorrel leaves)",
-      "1/2 cup tamarind pulp",
-      "6-8 dried red chilies",
-      "1 tsp mustard seeds",
-      "1 tsp cumin seeds",
-      "4-5 garlic cloves",
-      "Salt to taste",
-      "2 tbsp oil",
-      "1/2 tsp turmeric powder"
-    ],
-    "instructions": [
-      "Wash and clean gongura leaves thoroughly.",
-      "Heat oil in a pan, add mustard seeds and cumin seeds.",
-      "Add dried red chilies and garlic, saut\u00e9 until fragrant.",
-      "Add gongura leaves and cook until they wilt completely.",
-      "Add tamarind pulp, salt, and turmeric powder.",
-      "Cook for 5-7 minutes until oil separates. Cool and grind to paste."
-    ],
-    "credit": {
-      "display": "Cooking Credits: Telugu Kitchen Traditions",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
-    "id": 24,
-    "title": "Andhra Chicken Curry",
-    "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Andhra+Spices",
-    "time": "45 min",
-    "servings": 4,
-    "difficulty": "Medium",
-    "rating": 4.9,
-    "category": [
-      "Telugu",
-      "Non-Veg"
-    ],
-    "ingredients": [
-      "500g chicken pieces",
-      "2 onions (finely chopped)",
-      "3 tomatoes (chopped)",
-      "2 tbsp ginger-garlic paste",
-      "1 tsp turmeric powder",
-      "2 tbsp red chili powder",
-      "1 tbsp coriander powder",
-      "1 tsp garam masala",
-      "Curry leaves and coriander leaves",
-      "Salt to taste",
-      "3 tbsp oil"
-    ],
-    "instructions": [
-      "Marinate chicken with turmeric, salt, and half the ginger-garlic paste for 30 minutes.",
-      "Heat oil in a pan, add onions and saut\u00e9 until golden brown.",
-      "Add remaining ginger-garlic paste and cook until raw smell disappears.",
-      "Add tomatoes and cook until they turn mushy.",
-      "Add all spice powders and cook until oil separates.",
-      "Add marinated chicken and cook covered until tender.",
-      "Garnish with curry leaves and coriander leaves."
-    ],
-    "credit": {
-      "display": "Cooking Credits: Andhra Spice Masters",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
-    "id": 25,
-    "title": "Pulihora (Tamarind Rice)",
-    "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Pulihora",
-    "time": "25 min",
-    "servings": 4,
-    "difficulty": "Easy",
-    "rating": 4.7,
-    "category": [
-      "Telugu",
-      "Other"
-    ],
-    "ingredients": [
-      "2 cups cooked rice (cooled)",
-      "1/2 cup tamarind pulp",
-      "2 tbsp oil",
-      "1 tsp mustard seeds",
-      "1 tsp cumin seeds",
-      "2 dried red chilies",
-      "1/4 cup peanuts",
-      "1/4 cup cashews",
-      "Curry leaves",
-      "1 tsp turmeric powder",
-      "Salt to taste"
-    ],
-    "instructions": [
-      "Heat oil in a pan, add mustard seeds and cumin seeds.",
-      "Add dried red chilies, peanuts, and cashews. Roast until golden.",
-      "Add curry leaves and tamarind pulp.",
-      "Add turmeric powder and salt. Cook until oil separates.",
-      "Add cooked rice and mix gently until well combined.",
-      "Cook for 2-3 minutes on low heat. Serve warm."
-    ],
-    "credit": {
-      "display": "Cooking Credits: Telugu Festival Kitchen",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
-    "id": 26,
-    "title": "Gutti Vankaya (Stuffed Brinjal Curry)",
-    "image": "https://via.placeholder.com/800x600/D98663/FFFFFF?text=Gutti+Vankaya",
-    "time": "35 min",
-    "servings": 4,
-    "difficulty": "Medium",
-    "rating": 4.7,
-    "category": [
-      "Telugu",
-      "Vegetarian"
-    ],
-    "ingredients": [
-      "8-10 small brinjals",
-      "1/2 cup roasted peanuts",
-      "2 tbsp sesame seeds",
-      "2 tbsp coconut",
-      "1 tsp red chili powder",
-      "1 tsp coriander powder",
-      "1/2 tsp turmeric powder",
-      "1 tsp garam masala",
-      "Salt to taste",
-      "3 tbsp oil",
-      "Curry leaves and coriander leaves"
-    ],
-    "instructions": [
-      "Make cross cuts in brinjals without separating them.",
-      "Grind peanuts, sesame seeds, and coconut to coarse powder.",
-      "Mix ground powder with all spice powders and salt.",
-      "Stuff this mixture into the brinjals.",
-      "Heat oil in a pan, add curry leaves.",
-      "Add stuffed brinjals and cook covered until tender.",
-      "Garnish with coriander leaves and serve hot."
-    ],
-    "credit": {
-      "display": "Cooking Credits: Andhra Vegetable Specialists",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
-    "id": 27,
-    "title": "Tomato Pappu Recipe (Andhra Tomato Dal)",
-    "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=Tomato+Pappu",
-    "time": "25 min",
-    "servings": 4,
-    "difficulty": "Easy",
-    "rating": 4.6,
-    "category": [
-      "Telugu",
-      "Vegetarian"
-    ],
-    "ingredients": [
-      "1 cup toor dal",
-      "2 tomatoes (chopped)",
-      "1 onion (chopped)",
-      "2 green chilies (slit)",
-      "1 tsp turmeric powder",
-      "1 tsp red chili powder",
-      "Salt to taste",
-      "For tempering: 2 tbsp oil, 1 tsp mustard seeds, 1 tsp cumin seeds, curry leaves, garlic cloves"
-    ],
-    "instructions": [
-      "Cook toor dal with turmeric powder until soft.",
-      "Heat oil in a pan, add mustard seeds and cumin seeds.",
-      "Add curry leaves, garlic cloves, and green chilies.",
-      "Add chopped onions and saut\u00e9 until golden brown.",
-      "Add chopped tomatoes, red chili powder, and salt.",
-      "Cook until tomatoes turn mushy. Add cooked dal and mix well.",
-      "Simmer for 5 minutes. Serve hot with rice."
-    ],
-    "credit": {
-      "display": "Cooking Credits: Andhra Dal Specialists",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeNIzZZVF1-nnTq3McM1NUuOU6N9GMEt8k-iHR7w9PU2I6YZw/viewform?usp=header"
-    }
-  },
-  {
-    "id": 28,
     "title": "Royyala Vepudu (Prawn Fry)",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Royyala+Vepudu",
     "time": "20 min",
@@ -287,7 +99,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 24,
     "title": "Bobbatlu (Puran Poli)",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Bobbatlu",
     "time": "60 min",
@@ -317,7 +129,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 25,
     "title": "Chepa Pulusu (Fish Curry)",
     "image": "https://via.placeholder.com/800x600/F5EFE6/2E2E2E?text=Chepa+Pulusu",
     "time": "30 min",

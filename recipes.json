@@ -35,7 +35,7 @@
   },
   {
     "id": 2,
-    "title": "Pesarattu (Green Gram Dosa)",
+    "title": "పెసరట్టు (Pesarattu)",
     "image": "https://via.placeholder.com/800x600/C76E5A/FFFFFF?text=South+Indian",
     "time": "25 min",
     "servings": 3,
@@ -66,7 +66,7 @@
   },
   {
     "id": 3,
-    "title": "Gongura Pachadi (Sorrel Leaves Chutney)",
+    "title": "గోంగూర పచ్చడి (Gongura Pachadi)",
     "image": "https://via.placeholder.com/800x600/8A9C8E/FFFFFF?text=Telugu+Cuisine",
     "time": "20 min",
     "servings": 4,
@@ -102,7 +102,7 @@
   },
   {
     "id": 4,
-    "title": "Andhra Chicken Curry",
+    "title": "ఆంధ్ర చికెన్ కర్రీ (Andhra Chicken Curry)",
     "image": "https://via.placeholder.com/800x600/657B69/FFFFFF?text=Andhra+Spices",
     "time": "45 min",
     "servings": 4,
@@ -180,7 +180,7 @@
   },
   {
     "id": 6,
-    "title": "Pulihora (Tamarind Rice)",
+    "title": "పులిహోర (Pulihora)",
     "image": "https://via.placeholder.com/800x600/EDC9A9/2E2E2E?text=Pulihora",
     "time": "25 min",
     "servings": 4,
