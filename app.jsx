@@ -88,13 +88,9 @@ function App() {
 
         <div className="detail" style={{ marginTop: 16 }}>
           <img
-            src={selected.id === 1 ? './images/hyderabadibiryani.jpg' : selected.id === 4 ? './images/andhrachickencurry.jpg' : selected.image}
+            src={selected.image}
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
-            onError={(e) => {
-              // Fallback to placeholder if specific image fails
-              e.target.src = selected.image;
-            }}
           />
           <div className="detail-body">
             <h1 
@@ -150,16 +146,7 @@ function App() {
         <div className="header-row container">
           <div className="brand">
             <div className="logo-container">
-              <img 
-                src="./images/matki.jpg" 
-                alt="Cooking Pot Logo" 
-                className="logo-image"
-                onError={(e) => {
-                  // If image fails, show a simple cooking pot emoji
-                  e.target.style.display = 'none';
-                  e.target.parentNode.innerHTML = '<div style="font-size: 32px;">🍲</div>';
-                }}
-              />
+              <div className="cooking-pot-logo"></div>
             </div>
             <div className="brand-text">
               <h1 className="title">food for thought</h1>
@@ -171,16 +158,7 @@ function App() {
 
           <div className="buttons">
             <div className="logo-container right-logo">
-              <img 
-                src="./images/matki.jpg" 
-                alt="Cooking Pot Logo" 
-                className="logo-image"
-                onError={(e) => {
-                  // If image fails, show a simple cooking pot emoji
-                  e.target.style.display = 'none';
-                  e.target.parentNode.innerHTML = '<div style="font-size: 32px;">🍲</div>';
-                }}
-              />
+              <div className="cooking-pot-logo"></div>
             </div>
             <a
               className="button ghost"
@@ -209,13 +187,9 @@ function App() {
         {filtered.map((r) => (
           <div className="card" key={r.id} onClick={() => setSelected(r)}>
             <img 
-              src={r.id === 1 ? './images/hyderabadibiryani.jpg' : r.id === 4 ? './images/andhrachickencurry.jpg' : r.image} 
+              src={r.image} 
               alt={r.title}
               loading="lazy"
-              onError={(e) => {
-                // Fallback to placeholder if specific image fails
-                e.target.src = r.image;
-              }}
             />
             <div className="card-body">
               <h3>{r.title}</h3>
