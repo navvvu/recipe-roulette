@@ -22,6 +22,7 @@ function App() {
       46: './images/Vangibath.jpg',
       49: './images/karnatakastylechickencurry.png',
       51: './images/gulabjamun.jpg',
+      52: './images/rasgulla.jpg',
       54: './images/carrothalwa.png',
       55: './images/jalebi.jpg',
       63: './images/palakpaneer.jpg',
