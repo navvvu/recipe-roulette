@@ -221,28 +221,17 @@ html, body {
 
 /* ---------- SEARCH ---------- */
 .search-wrap {
-  position: relative;
-  padding: 0 24px 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 20px auto;
+  max-width: 500px;
 }
-.input {
-  width: 100%;
-  padding: 12px 44px;
-  border: 2px solid #e8ded8;
-  border-radius: 999px;
-  font-size: 14px;
-  background: #fff;
-  outline: none;
-  transition: border 0.2s ease;
-}
-.input:focus {
-  border-color: var(--terracotta);
-}
+
 .search-ico {
-  position: absolute;
-  left: 38px;
-  top: 50%;
-  transform: translateY(-50%);
-  color: var(--olive);
+  font-size: 20px;
+  color: var(--sage);
+  flex-shrink: 0;
 }
 
 /* ---------- GRID ---------- */

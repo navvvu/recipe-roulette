@@ -7,6 +7,32 @@ function App() {
   const [error, setError] = useState("");
   const [search, setSearch] = useState("");
 
+  // Helper function to get image URL
+  const getImageUrl = (recipe) => {
+    const imageMap = {
+      1: './images/hyderabadibiryani.jpg',
+      4: './images/andhrachickencurry.jpg',
+      9: './images/masaladosa.jpg',
+      10: './images/GuttiVankaya.jpg',
+      14: './images/idli.jpg',
+      31: './images/idli.jpg',
+      46: './images/Vangibath.jpg',
+      49: './images/karnatakastylechickencurry.png',
+      51: './images/gulabjamun.jpg',
+      54: './images/carrothalwa.png',
+      55: './images/jalebi.jpg',
+      63: './images/palakpaneer.jpg',
+      69: './images/pavbhaji.jpg'
+    };
+    const customImage = imageMap[recipe.id];
+    if (customImage) {
+      console.log(`Using custom image for ${recipe.title}: ${customImage}`);
+      return customImage;
+    }
+    console.log(`Using placeholder for ${recipe.title}: ${recipe.image}`);
+    return recipe.image;
+  };
+
   // 1) Load all recipe files
   useEffect(() => {
     const loadRecipes = async () => {
@@ -88,7 +114,7 @@ function App() {
 
         <div className="detail" style={{ marginTop: 16 }}>
           <img
-            src={selected.id === 1 ? './images/hyderabadibiryani.jpg' : selected.id === 4 ? './images/andhrachickencurry.jpg' : selected.id === 9 ? './images/masaladosa.jpg' : selected.id === 10 ? './images/GuttiVankaya.jpg' : selected.id === 14 ? './images/idli.jpg' : selected.id === 31 ? './images/idli.jpg' : selected.id === 46 ? './images/Vangibath.jpg' : selected.id === 49 ? './images/karnatakastylechickencurry.png' : selected.id === 51 ? './images/gulabjamun.jpg' : selected.id === 54 ? './images/carrothalwa.png' : selected.id === 55 ? './images/jalebi.jpg' : selected.id === 63 ? './images/palakpaneer.jpg' : selected.id === 69 ? './images/pavbhaji.jpg' : selected.image}
+            src={getImageUrl(selected)}
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
             onError={(e) => {
@@ -191,7 +217,7 @@ function App() {
         {filtered.map((r) => (
           <div className="card" key={r.id} onClick={() => setSelected(r)}>
             <img 
-              src={r.id === 1 ? './images/hyderabadibiryani.jpg' : r.id === 4 ? './images/andhrachickencurry.jpg' : r.id === 9 ? './images/masaladosa.jpg' : r.id === 10 ? './images/GuttiVankaya.jpg' : r.id === 14 ? './images/idli.jpg' : r.id === 31 ? './images/idli.jpg' : r.id === 46 ? './images/Vangibath.jpg' : r.id === 49 ? './images/karnatakastylechickencurry.png' : r.id === 51 ? './images/gulabjamun.jpg' : r.id === 54 ? './images/carrothalwa.png' : r.id === 55 ? './images/jalebi.jpg' : r.id === 63 ? './images/palakpaneer.jpg' : r.id === 69 ? './images/pavbhaji.jpg' : r.image} 
+              src={getImageUrl(r)} 
               alt={r.title}
               loading="lazy"
               onError={(e) => {
