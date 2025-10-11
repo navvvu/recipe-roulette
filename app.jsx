@@ -57,9 +57,8 @@ function App() {
     
     const title = r.title.toLowerCase();
     const categories = Array.isArray(r.category) ? r.category.join(" ").toLowerCase() : (r.category || "").toLowerCase();
-    const ingredients = Array.isArray(r.ingredients) ? r.ingredients.join(" ").toLowerCase() : "";
     
-    return title.includes(q) || categories.includes(q) || ingredients.includes(q);
+    return title.includes(q) || categories.includes(q);
   });
 
   // ---------- Loading / Error ----------
@@ -89,7 +88,7 @@ function App() {
 
         <div className="detail" style={{ marginTop: 16 }}>
           <img
-            src={selected.id === 1 ? './images/hyderabadibiryani.jpg' : selected.id === 24 ? './images/andhrachickencurry.jpg' : selected.image}
+            src={selected.id === 1 ? './images/hyderabadibiryani.jpg' : selected.id === 4 ? './images/andhrachickencurry.jpg' : selected.image}
             alt={selected.title}
             style={{ width: "100%", height: 360, objectFit: "cover" }}
             onError={(e) => {
@@ -202,7 +201,6 @@ function App() {
             placeholder="Search recipes or categories…"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            style={{ fontSize: '16px', padding: '12px' }}
           />
         </div>
       </header>
@@ -211,7 +209,7 @@ function App() {
         {filtered.map((r) => (
           <div className="card" key={r.id} onClick={() => setSelected(r)}>
             <img 
-              src={r.id === 1 ? './images/hyderabadibiryani.jpg' : r.id === 24 ? './images/andhrachickencurry.jpg' : r.image} 
+              src={r.id === 1 ? './images/hyderabadibiryani.jpg' : r.id === 4 ? './images/andhrachickencurry.jpg' : r.image} 
               alt={r.title}
               loading="lazy"
               onError={(e) => {
