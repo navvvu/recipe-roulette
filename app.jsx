@@ -25,6 +25,7 @@ function App() {
       52: './images/rasgulla.jpg',
       54: './images/carrothalwa.png',
       55: './images/jalebi.jpg',
+      58: './images/ladoo.jpg',
       60: './images/kulfi.jpg',
       63: './images/palakpaneer.jpg',
       65: './images/cholebhature.jpg',
