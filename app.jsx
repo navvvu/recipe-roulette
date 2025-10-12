@@ -17,6 +17,7 @@ function App() {
       4: './images/andhrachickencurry.jpg',
       5: './images/semolinacrepes.jpg',
       6: './images/pulihorarice.jpg',
+      7: './images/coconutchutney.jpg',
       9: './images/masaladosa.jpg',
       10: './images/GuttiVankaya.jpg',
       14: './images/idli.jpg',
@@ -34,6 +35,7 @@ function App() {
       60: './images/kulfi.jpg',
       63: './images/palakpaneer.jpg',
       65: './images/cholebhature.jpg',
+      66: './images/rajmachawal.jpg',
       67: './images/aloogobi.jpg',
       69: './images/pavbhaji.jpg'
     };
