@@ -16,6 +16,7 @@ function App() {
       3: './images/GonguraPachadi.jpg',
       4: './images/andhrachickencurry.jpg',
       5: './images/semolinacrepes.jpg',
+      6: './images/pulihorarice.jpg',
       9: './images/masaladosa.jpg',
       10: './images/GuttiVankaya.jpg',
       14: './images/idli.jpg',
